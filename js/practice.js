@@ -463,12 +463,11 @@
     qBox.innerHTML = `
       <div class="question-top-row">
         <div class="question-text-wrapper">
-          <div class="question-meta-bar">
+          <div class="question-title-text">
             ${isFlagged ? '<span class="q-flag-tag">🚩 ĐÃ ĐẶT CỜ</span>' : ''}
             <span class="q-number-title">Câu ${currIdx + 1} / ${state.questions.length}:</span>
-            <span class="module-title-badge">${escapeHtml(q.moduleName || '')}</span>
+            ${escapeHtml(q.question)}
           </div>
-          <div class="question-title-text">${escapeHtml(q.question)}</div>
         </div>
         ${imageHtml}
       </div>
