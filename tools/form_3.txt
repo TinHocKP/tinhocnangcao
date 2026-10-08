@@ -1,0 +1,320 @@
+=== Phần 2: Excel Nâng Cao (Câu 1 - 50) ===
+
+Câu 1: Đâu không phải là chế độ bảo mật của MS Excel?
+  A. Đặt mật khẩu khi mở tập tin
+  B. Đặt mật khẩu khi chỉnh sửa nội dung
+  C. Đặt mật khẩu khi nén tập tin
+  D. Đặt mật khẩu khi chỉnh sửa cấu trúc tập tin
+
+Câu 2: Chế độ Mark as Final trong MS Excel có tác dụng gì ?
+  A. Chỉ được phép xem nội dung của các sheet
+  B. Chỉ được phép thay đổi nội dung của những ô trống (không có dữ liệu)
+  C. Chỉ được phép thay đổi vị trí của các sheet trong tập tin
+  D. Đánh dấu bản quyền của tác giả vào mỗi sheet
+
+Câu 3: Trong MS Excel, chế độ bảo mật: “Encrypt with password” có nghĩa gì?
+  A. Đặt mật khẩu khi mở tập tin
+  B. Đặt mật khẩu khi chỉnh sửa nội dung
+  C. Đặt mật khẩu khi thay đổi cấu trúc tập tin
+  D. Đặt mật khẩu khi nén tập tin
+
+Câu 4: Trong MS Excel, chế độ bảo mật: “Protect Current sheet” có nghĩa gì?
+  A. Đặt mật khẩu khi mở tập tin
+  B. Đặt mật khẩu khi chỉnh sửa nội dung của sheet hiện tại
+  C. Đặt mật khẩu khi thay đổi cấu trúc tập tin
+  D. Đặt mật khẩu khi nén tập tin
+
+Câu 5: Trong MS Excel, chế độ bảo mật: “Protect Workbook structure” có nghĩa gì?
+  A. Đặt mật khẩu khi mở tập tin
+  B. Đặt mật khẩu khi chỉnh sửa nội dung của sheet hiện tại
+  C. Đặt mật khẩu khi thay đổi cấu trúc tập tin
+  D. Đặt mật khẩu khi nén tập tin
+
+Câu 6: Để văn bản tự động xuống hàng trên một ô ta thực hiện?
+  A. Home\Alignment\Wrap Text
+  B. Insert\Alignment\Wrap Text
+  C. Page Layout\ Alignment\Wrap Text
+  D. Data\Alignment\Wrap Text
+
+Câu 7: Để thiết lập được lề trang in ta thực hiện:
+  A. Page Layout\Margins\Custom Margins\...
+  B. Insert\Margins\Custom Margins\...
+  C. Data\Margins\Custom Margins\...
+  D. Home\Margins\Custom Margins\...
+
+Câu 8: Muốn định dạng trang in theo hướng chiều ngang trang giấy ta chọn:
+  A. Page Layout\ Orientation\landscape
+  B. Page Layout\ Orientation\Portrait
+  C. Page Layout\Landscape
+  D. Tất cả đều sai
+
+Câu 9: Để nhập nội dung vào Header và Footer của Microsoft Excel, thực hiện:
+  A. Insert -> Header & Footer
+  B. Page Layout -> Textbox
+  C. Insert -> WordArt
+  D. Page Layout -> Orientation -> Landscape
+
+Câu 10: Trong MS Excel, để thiết lập được in tiêu đề dòng tự động trên mọi trang ta thực hiện:
+  A. Page Layout\Print Titles
+  B. Home\Print Titles
+  C. Insert\Print Titles
+  D. View\Print Titles
+
+Câu 11: Trong MS Excel, hàm OR là một hàm logic Hàm cho giá trị đúng (true) khi?
+  A. Có ít nhất hai biểu thức điều kiện của hàm có giá trị đúng
+  B. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị đúng
+  C. Chỉ cần một biểu thức điều kiện nào đó của hàm có giá trị đúng
+  D. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị sai
+
+Câu 12: Trong bảng tính MS Excel, cho bảng số liệu tiền lương nhân viên như hình:  
+
+Dùng hai ký tự cuối của mã nhân viên và tra vào bảng mã để điền thông tin Phòng ban. Công thức 
+nào dưới đây là đúng
+  A. =VLOOKUP(LEFT(B2,2), $F$3:$I$4,2,0)
+  B. =HLOOKUP(RIGHT(B2,2), $F$3:$I$4,2,0)
+  C. =HLOOKUP(B2, $F$3:$I$4,2,0)
+  D. =VLOOKUP(B2, $F$3:$I$4,2,0)
+
+Câu 13: Cho một bảng tính trong MS Excel như hình kèm theo, kết quả nào sau đây là đúng?
+  A. =VLOOKUP(“F”, A3:B6, 2,0) là “Sắt”
+  B. =HLOOKUP(“X”, A3:B6, 3,0) là “F”
+  C. =VLOOKUP(“A”, A3:B6, 2,0) là #REF!
+  D. =VLOOKUP(“X”, A3:B6, 2,0) là “Sắt”
+
+Câu 14: Trong MS Excel, giải thích nào sau đây là sai?
+  A. #DIV/0! là lỗi chia cho số 0
+  B. #NAME? là Excel không hiểu các tên tham khảo đến
+  C. #REF! là tham khảo đến vùng không hợp lệ
+  D. #N/A! Là công thức đưa vào bị lỗi
+
+Câu 15: Trong MS Excel, cho các ô từ B1:B3 có các giá trị sau 1, “A”, 3. Hãy chọn câu sai?
+  A. =SUM(B1:B3) bằng 4
+  B. =SUM(B1, B2, B3) bằng 4
+  C. = B1+B2+B3 bằng 4
+  D. =COUNTBLANK(B1:B3) bằng 0
+
+Câu 16: Trong MS Excel, kết quả công thức nào sau đây là đúng nhất?
+  A. =CEILING(12.4, 5) là 15
+  B. =CEILING(12.4, 3) là 12
+  C. =FLOOR(12.4, 5) là 12
+  D. =FLOOR(12.4, 5) là 15
+
+Câu 17: Trong MS Excel, kết quả nào sau đây là sai?
+  A. =INT(3.2) là 3
+  B. =INT(3.9) là 4
+  C. =ROUND(4.5, -1) là 0
+  D. =ROUND(5.9, -1) là 10
+
+Câu 18: Trong MS Excel, kết quả nào sau đây là sai?
+  A. =COUNT(1, “A”, 3, 4) là 3
+  B. =IF(10>9, “Sai”, “Đúng”) là “Đúng”
+  C. =IF(A1>=7.0, “Khá”, IF(A1>=5.0, “TB”, “Yếu”)) và ô A1 là 6.0 thì kết quả là “TB”
+  D. =PRODUCT(1,2,3,4) là 24
+
+Câu 19: Trong MS Excel, cho một worksheet như hình bên dưới, kết quả của công thức
+  
+=VLOOKUP(4, A1:B5, 2,0) là?
+  A. TB
+  B. Khá
+  C. Yếu
+  D. #N/A
+
+Câu 20: Trong MS Excel, kết quả công thức nào sau đây là đúng nhất?
+  A. =COUNT(“A”, “B”, 1,2) là 4
+  B. =COUNTA(“A”, “B”, 1,2) là 2
+  C. =COUNTA(“A”, “B”, 1,2) là 4
+  D. =COUNT(“A”, “B”, 1, 2) là 3
+
+Câu 21: Cho bảng số liệu như sau trong MS Excel. Yêu cầu: Tính trị giá = Số lượng * Đơn giá 
+*(1 - Mức giảm) . Trong đó, mức giảm được tính như sau: Nếu số lượng bán ra dưới 50 thì mức 
+giảm là 0; ngược lại thì mức giảm sẽ là 10 %. Công thức tại ô F2 như thế nào?
+  A. D2*E2 *(1-If (D2 <50; 10%;0%))
+  B. D$2*E$2 *(1-If (D2 <50;0%; 10%))
+  C. D2*E2 *(1-If (D2 <50; 0%;10%))
+  D. D2*E2 *1-If (D2 <50; 0%;10%)
+
+Câu 22: Trong MS Excel, để trích danh sách các khách hàng ở khu vực B có tiêu thụ ít hơn 20 mét khối nước, địa chỉ của vùng điều kiện là:
+  A. A15:B17
+  B. B15:B17
+  C. A15:B16
+  D. Tất cả đều sai
+
+Câu 23: Trong MS Excel, để trích danh sách các khách hàng ở khu vực A có tiêu thụ ít hơn 30 mét khối nước, địa chỉ của vùng điều kiện là:
+  A. A15:B16
+  B. A15:B17
+  C. B15:C16
+  D. B15:C17
+
+Câu 24: Cho bảng số liệu như sau trong MS Excel. Tính tổng tiền của những Mã hàng có ký tự đầu là N:
+  A. = SUMIF(B9:B12; G9; F9:F12)
+  B. = DSUM(A8:F12; F9; F9:F12)
+  C. = DSUM(A8:F12; F8; G9)
+  D. Tất cả đều sai
+
+Câu 25: Cho bảng số liệu như sau trong MS Excel như hình bên dưới.
+Ô kết quả là các ký tự bên trái dấu “_”, yêu cầu điền công thức cho ô B2
+  A. =MID(A2; 1; 3)
+  B. =MID(A2; 1; LEN(A2)-3))
+  C. =LEFT(A2; 3)
+  D. =LEFT(A2; LEN(A2)-2))
+
+Câu 26: Cho bảng số liệu như sau trong MS Excel như hình dưới:
+Ô kết quả là các ký tự giữ 2 dấu “_”, yêu cầu điền công thức cho ô B2
+  A. =MID(A2; LEN(A2)-6; 4)
+  B. =MID(A2; 3; 4)
+  C. =RIGHT(LEFT(A2; 7); 4)
+  D. =LEFT(RIGHT(A2; 3; 7); 4)
+
+Câu 27: Cho bảng số liệu như sau trong MS Excel như hình dưới.
+Ô kết quả là các ký tự giữa 2 dấu “_”, yêu cầu điền công thức cho ô B2
+  A. =MID(A2,3,4)
+  B. =RIGHT(LEFT(A2,7),4)
+  C. =LEFT(RIGHT(A2,7),4)
+  D. =LEFT(MID(A2,3,7),4)
+
+Câu 28: Cho bảng số liệu như sau trong MS Excel:  
+Yêu cầu: Tính thành tiền = Số lượng * Đơn giá *(1 - giảm giá) . Trong đó, giảm giá được tính như sau: Nếu số lượng dưới 20 thì mức giảm là 0; ngược lại thì giảm giá sẽ là 10%. Công thức tại ô G11 như thế nào?
+  A. E11*F11 * (1-If(E11 < 20; 10%; 0%))
+  B. E$11*F$11 * (1-If (E11 < 20; 0%; 10%))
+  C. E11*F11 * (1-If (E11 < 20; 0%; 10%))
+  D. E11*F11 * 1-If (E11 < 20; 0%; 10%)
+
+Câu 29: Trong bảng tính MS Excel, tại ô A2 có sẵn giá trị số 15; tại ô B2 gõ vào công thức 
+=PRODUCT(A2, 3, 2) thì nhận được kết quả:
+  A. #VALUE!
+  B. 6
+  C. 45
+  D. 90
+
+Câu 30: Trong MS Excel, viết công thức tính cột Thưởng tại ô có dấu hỏi. Biết rằng : 
+- Nếu Lương CB <= 1,200,000 thì Thưởng = 1,200,000 Nếu Lương CB > 2,400,000 thì Thưởng = 2,400,000
+  A. = IF(C3<=1200000; 1200000; IF(C3>2400000; 2400000 ; C3))
+  B. = IF(C3>2400000; 2400000; IF(C3<1200000; 1200000; C3))
+  C. = MIN(2400000,MAX(C3,1200000))
+  D. Tất cả đều đúng.
+
+Câu 31: Cho bảng số liệu như sau trong MS Excel. Viết công thức điền giá trị cho cột Đơn giá (ô dấu ?) :
+  A. = HLOOKUP(month(B10); $B$16:$D$18; if(A10=‘’CP’’; 2 ;3) ;0)
+  B. = VLOOKUP(A10; $A$16:$D$18; if(MONTH(B10) =1;2, if(MONTH(B10)=2; 2;3); 0)
+  C. = INDEX($B$17:$D$18; MATCH(A10, $A$17 :$A$18 ;0); MONTH(B10))
+  D. Tất cả đều đúng
+
+Câu 32: Cho bảng số liệu như sau trong MS Excel, Để tính giá trị cho các ô từ B2 đến B5, đầu tiên bạn phải nhập công thức nào trong số các công thức sau vào ô B2 (dùng bảng dò A):
+  A. =VLOOKUP(A2,A8:C10,2,0)
+  B. =VLOOKUP(A2,$A$8:$C$10,0,2)
+  C. =VLOOKUP(A2,$A$8:$C$10,2,0)
+  D. =VLOOKUP(A2,A8:C10,2,1)
+
+Câu 33: Cho bảng số liệu như sau trong MS Excel  
+ Để tính giá trị cho các ô từ D3 đến D6, đầu tiên phải nhập công thức nào trong số các công thức sau vào ô D3 (dùng bảng dò B)
+  A. =HLOOKUP(A2; $E$7:$G$10; 3; 0)
+  B. =HLOOKUP(A2; $E$8:$G$10; 1; 0)
+  C. =HLOOKUP(A2; $E$8:$G$10; 2; 0)
+  D. =HLOOKUP(A2 ;$E$8:$G$10; 3; 0)
+
+Câu 34: Cho bảng số liệu như sau trong MS Excel  
+Dựa vào số năm làm việc của từng nhân viên và tra trong bảng qui định phụ cấp thâm niên để tính giá trị phụ cấp TN cho các ô từ D3 đến D6. Công thức nào dưới đây được lập tại ô D3?
+  A. =VLOOKUP((D1-C3)/365; $D$10:$E$15; 2; 1)
+  B. =VLOOKUP(($D$1-C3)/365; $C$10:$E$15; 3; 1)
+  C. =VLOOKUP(($D$1-C3)/365; $D$10:$E$15; 2; 1)
+  D. =INDEX($C$10:$E$15 ;2 ; (D1-C3)/365)
+
+Câu 35: Trong MS Excel, cho một bảng tính như hình bên dưới, kết quả của công thức 
+=INDEX(B2:C5, 3,1) là?
+  A. Cúc
+  B. Tùng
+  C. Hưng
+  D. Mai
+
+Câu 36: Trong MS Excel, cho một bảng tính như hình bên dưới, kết quả của công thức 
+=MATCH(A1, A1:C1) là?
+  A. 1
+  B. 2
+  C. 3
+  D. Báo lỗi
+
+Câu 37: Trong MS Excel, một cơ sở dữ liệu (CSDL) là một vùng dữ liệu có________ .
+  A. Dòng đầu tiên chứa các tên vùng tin (field)
+  B. Dòng đầu tiên phải nằm ở hàng 1 (row 1) của mỗi worksheet
+  C. Tối đa 16 triệu dòng dữ liệu cho mỗi CSDL
+  D. Tiêu đề không phải là tiếng Việt có dấu
+
+Câu 38: Trong MS Excel, câu nào sau đây sai nhất?
+  A. Chỉ có thể sắp xếp một cơ sở dữ liệu (CSDL) mỗi lần 1 cột (vùng tin)
+  B. Chỉ cần đặt con trỏ chuột tại vùng cần sắp xếp để sắp xếp một CSDL mà không cần chọn vùng CSDL
+  C. Việc lọc tự động (Auto Filter) một CSDL sẽ dựa trên các dữ liệu đang có của cột (vùng tin)
+  D. Phải tạo ra trước một vùng điều kiện trước khi tiến hành rút trích (Advance filter)
+
+Câu 39: Trong MS Excel, khi lọc nâng cao (Advanced Filter), vùng điều kiện lọc (ĐK) không tuân theo nguyên tắc nào sau đây?
+  A. Dòng đầu của ĐK là các tên vùng tin của Cơ sở dữ liệu (CSDL)
+  B. Dòng kế tiếp chứa các điều kiện AND với nhau
+  C. Các dòng (trừ dòng đầu) khác nhau thể hiện điều kiện OR
+  D. Khi sử dụng công thức trong vùng điều kiện lọc thì tiêu đề của vùng điều kiện lọc phải giống với tiêu đề của bảng dữ liệu
+
+Câu 40: Trong MS Excel, câu nào sau đây là sai?
+  A. Group và Subtotal cho phép gom nhóm và tính tổng theo từng nhóm
+  B. Không cần sắp xếp dữ liệu trước theo các vùng tin cần gom nhóm, Excel tự sắp xếp
+  C. Chỉ tính tổng cho các giá trị số
+  D. Có thể đặt dòng tính tổng cuối hoặc đầu mỗi nhóm
+
+Câu 41: Trong MS Excel, phát biểu nào là sai về các hàm cơ sở dữ liệu (CSDL) như DSUM, DCOUNT?
+  A. Có cùng một dạng tham số đầu vào là (database, field, criteria)
+  B. Chỉ tính các dữ liệu ở cột field nếu các dòng dữ liệu tương ứng thoả điều kiện criteria
+  C. Các dòng khác nhau trong vùng điều kiện là các điều kiện AND
+  D. Phải tạo ra vùng điều kiện trước khi sử dụng
+
+Câu 42: Trong Excel, công thức nào sau đây lấy các ký tự giữa của chuỗi trong ô A2, biết rằng nếu chiều dài chuỗi là số lẻ thì sẽ lấy 1 ký tự, ngược lại là 2 ký tự?
+  A. =MID(A2, (LEN(A2)+1)/2, IF(MOD(LEN(A2),2)=1,1,2))
+  B. =MID(A2, LEN(A2)/2, IF(MOD(LEN(A2),2)=1,1,2))
+  C. =MID(A2, LEN(A2)/2+1, IF(MOD(LEN(A2),2)=1,1,2))
+  D. =MID(A2, A2/2, IF(MOD(LEN(A2),2)=1,1,2))
+
+Câu 43: Trong Excel, phát biểu nào sau đây là sai ?
+  A. Sau khi vẽ xong đồ thị, có thể chuyển đổi chuỗi dữ liệu (data series) cột thành hàng và ngược lại
+  B. Sau khi vẽ xong đồ thị, không thể thay đổi kiểu đồ thị (chart type) sang dạng khác được
+  C. Sau khi vẽ xong đồ thị, có thể thay đổi màu của từng thành phần trong đồ thị
+  D. Sau khi vẽ xong đồ thị, không thể hiển thị mũi tên tại trục đứng và trục ngang của biểu đồ
+
+Câu 44: Trong Excel, các so sánh nào sau đây là đúng ?
+  A. =SUM(B1:B4) bằng với =SUM(B1, B2:B3, B4)
+  B. =AVERAGE(B1:B4) bằng với =SUM(B1:B4)/COUNTA(B1:B4)
+  C. =AVERAGE(B1:B3) bằng với =(B1+B2+B3)/3
+  D. =LEFT(B1) bằng với =VALUE(LEFT(B1))
+
+Câu 45: Trong Excel, để lấy họ của sinh viên nếu họ và tên của sinh viên chứa trong ô A2, công thức nào sau đây là đúng nhất?
+  A. =LEFT(TRIM(A2), FIND(“ ”, TRIM(A2))-1)
+  B. =LEFT(TRIM(A2), FIND(“ ”, TRIM(A2) & “ ”)-1)
+  C. =LEFT(A2, FIND(“ ”, A2)-1)
+  D. =LEFT(A2, FIND(“ ”, A2 & “ ”)-1)
+
+Câu 46: Trong MS Excel, nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt, ngược lại nếu dưới 5 điểm thì xếp loại không đạt. Công thức nào dưới đây thể hiện đúng điều này (Giả sử ô B3 đang chứa điểm thi)
+  A. =IF(B3=5; "Đạt") ELSE ("Không đạt")
+  B. =IF(B3<5; "Không đạt"; "Đạt")
+  C. =IF(B3=5; "Đạt"; "Không đạt")
+  D. =IF(B3>5; "Đạt"; "Không đạt")
+
+Câu 47: Trong MS Excel, giả sử tại ô A1 chứa giá trị 28450. Tại ô B1 ta lập công thức nào để cho kết quả là 28000
+  A. =MOD(A1; 1000)
+  B. =ROUND(A1; 3)
+  C. =ROUND(A1; -3)
+  D. =INT(A1)
+
+Câu 48: Trong MS Excel, công thức nào sau đây sẽ cho lỗi #VALUE !
+  A. =COUNTA("A"; 13; 4)
+  B. =MAX("A"; 13; 4)
+  C. =COUNTIF(A1:A10; "A")
+  D. =COUNT("A"; 13; 4)
+
+Câu 49: Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật. 
+Địa chỉ khối ô được thể hiện như câu nào sau đây là đúng?
+  A. B1--E10
+  B. B1-E10
+  C. B1:E10
+  D. B1..E10
+
+Câu 50: Trong MS Excel, giả sử vùng giá trị từ B4 đến B20 chứa cột Họ và tên nhân viên. Với yêu cầu bài toán "Tính tổng số lượng nhân viên có trong danh sách" thì công thức sẽ là gì?
+  A. =COUNTA(B4:B20)
+  B. =COUNT(B4:B20)
+  C. =SUM(B4:B20)
+  D. =COUNTBLANK(B4:B20)
+

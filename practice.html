@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ôn Tập Trắc Nghiệm CNTT Nâng Cao - TT Kỹ Thuật Điện Toán Bách Khoa</title>
+  <link rel="icon" type="image/png" href="assets/logo-bk.png">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* ================= KIỂU DÁNG CHUYÊN BIỆT CHO TRANG ÔN TẬP ================= */
+    html, body {
+      height: auto !important;
+      min-height: 100vh !important;
+      overflow-y: auto !important;
+      overflow-x: hidden !important;
+      background-color: #f4f6f9;
+    }
+
+    .overview-wrapper {
+      background-color: #f4f6f9;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .overview-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 16px 40px 16px;
+      width: 100%;
+      flex: 1;
+    }
+
+    .overview-hero {
+      background: linear-gradient(135deg, #0288d1 0%, #002f6c 100%);
+      color: #ffffff;
+      padding: 26px 24px;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 4px 15px rgba(2, 136, 209, 0.2);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .overview-hero-text h2 {
+      font-size: 22px;
+      font-weight: 800;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .overview-hero-text p {
+      font-size: 14.5px;
+      color: #e0f2fe;
+      line-height: 1.5;
+    }
+
+    .btn-exam-portal {
+      background: linear-gradient(180deg, #ed6c02, #c62828);
+      color: #ffffff !important;
+      text-decoration: none;
+      padding: 12px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+      transition: all 0.2s;
+    }
+    .btn-exam-portal:hover {
+      filter: brightness(1.1);
+      transform: translateY(-2px);
+    }
+
+    /* Các nhóm Phần */
+    .part-group-card {
+      background: #ffffff;
+      border-radius: 12px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+      overflow: hidden;
+      border: 1px solid #e2e8f0;
+    }
+
+    .part-header {
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .part-header-title {
+      font-size: 16px;
+      font-weight: 800;
+      letter-spacing: 0.3px;
+    }
+
+    .btn-part-all {
+      background: rgba(255, 255, 255, 0.2);
+      color: #ffffff;
+      border: 1.5px solid rgba(255, 255, 255, 0.7);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-part-all:hover {
+      background: #ffffff;
+      color: #0d47a1;
+    }
+
+    .part-body {
+      padding: 16px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .sub-topic-row {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 16px;
+      transition: all 0.2s;
+    }
+    .sub-topic-row:hover {
+      border-color: #90caf9;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+      background: #ffffff;
+    }
+
+    .sub-topic-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .sub-topic-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .sub-topic-badge {
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 12px;
+      background: #e2e8f0;
+      color: #475569;
+      font-weight: 600;
+    }
+
+    .sub-topic-desc {
+      font-size: 13.5px;
+      color: #475569;
+      line-height: 1.45;
+      margin-bottom: 12px;
+    }
+
+    .sub-topic-actions {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .btn-start-topic {
+      background: #0288d1;
+      color: #ffffff;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13.5px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .btn-start-topic:hover {
+      background: #0277bd;
+    }
+
+    .link-original-form {
+      color: #64748b;
+      font-size: 12.5px;
+      text-decoration: none;
+      padding: 6px 12px;
+      border: 1px solid #cbd5e1;
+      border-radius: 6px;
+      transition: all 0.2s;
+    }
+    .link-original-form:hover {
+      color: #0288d1;
+      border-color: #0288d1;
+      background: #f0f9ff;
+    }
+
+    /* Tùy chỉnh thanh điều khiển khi làm bài ôn tập */
+    .practice-workspace-header {
+      background: #ffffff;
+      border-bottom: 2px solid #64b5f6;
+      padding: 8px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .instant-toggle-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13.5px;
+      font-weight: 600;
+      color: #0288d1;
+      cursor: pointer;
+      background: #e0f2fe;
+      padding: 6px 12px;
+      border-radius: 20px;
+    }
+
+    .btn-exit-to-overview {
+      background: #f1f5f9;
+      color: #334155;
+      border: 1px solid #cbd5e1;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .btn-exit-to-overview:hover {
+      background: #e2e8f0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ================= MÀN HÌNH 1: TỔNG QUAN CHỌN CHUYÊN ĐỀ ÔN TẬP ================= -->
+  <div id="practice-overview-screen" class="overview-wrapper">
+    <div class="overview-container">
+      
+      <!-- HERO BANNER -->
+      <div class="overview-hero">
+        <div class="overview-hero-text">
+          <h2>HỌC & ÔN TẬP TRẮC NGHIỆM CNTT NÂNG CAO</h2>
+          <p>
+            Ngân hàng <strong>300 câu hỏi chính thức</strong> từ 6 Google Forms của giảng viên.<br>
+            Học tập chủ động: Không giới hạn thời gian, có thể xem ngay đáp án đúng và giải thích chi tiết cho từng câu.
+          </p>
+        </div>
+        <div>
+          <a href="index.html" class="btn-exam-portal">⏱️ Vào Phòng Thi Thử 30 Phút</a>
+        </div>
+      </div>
+
+      <!-- DANH SÁCH 3 PHẦN & 6 CHUYÊN ĐỀ -->
+      <div id="overview-topics-grid">
+        <!-- Render động bằng JS -->
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ================= MÀN HÌNH 2: KHÔNG GIAN LÀM BÀI ÔN TẬP ================= -->
+  <div id="practice-workspace-screen" class="app-container" style="display: none; height: 100vh; flex-direction: column;">
+    
+    <!-- HEADER ÔN TẬP -->
+    <header class="practice-workspace-header">
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <button id="btn-back-overview" class="btn-exit-to-overview">⬅ Danh sách chủ đề</button>
+        <div id="practice-header-title" style="font-weight: 800; color: #0d47a1; font-size: 15.5px;">Chuyên đề ôn tập</div>
+      </div>
+
+      <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+        <!-- Nút tăng giảm cỡ chữ -->
+        <div class="font-controls" style="display: inline-flex; gap: 4px;">
+          <button id="btn-prac-font-dec" title="Giảm cỡ chữ" style="padding: 2px 8px; border: 1px solid #90caf9; background: #fff; border-radius: 4px; font-weight: bold; cursor: pointer;">A-</button>
+          <button id="btn-prac-font-inc" title="Tăng cỡ chữ" style="padding: 2px 8px; border: 1px solid #90caf9; background: #fff; border-radius: 4px; font-weight: bold; cursor: pointer;">A+</button>
+        </div>
+
+        <label class="instant-toggle-label" title="Khi bật: bạn sẽ thấy ngay đáp án đúng/sai và lời giải ngay khi nhấp chọn">
+          <input type="checkbox" id="toggle-instant-mode" checked>
+          <span>Xem đáp án tức thì</span>
+        </label>
+        <a href="index.html" class="btn-goto-practice" style="text-decoration: none; padding: 6px 12px;">⏱️ Thi thử 30p</a>
+      </div>
+    </header>
+
+    <!-- WORKSPACE CHÍNH (SIDEBAR + NỘI DUNG CÂU HỎI) -->
+    <main class="main-workspace" style="flex: 1; min-height: 0; overflow: hidden;">
+      
+      <!-- CỘT TRÁI: LƯỚI CÂU HỎI & NÚT NỘP BÀI -->
+      <aside class="left-sidebar" style="height: 100%; display: flex; flex-direction: column; overflow: hidden;">
+        <div class="mobile-sidebar-heading" style="font-weight: 700; color: #0d47a1; margin-bottom: 6px; font-size: 13.5px;">📋 Danh sách câu hỏi:</div>
+        <div id="practice-questions-grid" class="questions-grid practice-scroll-grid">
+          <!-- Render các ô câu hỏi -->
+        </div>
+
+        <div class="left-sidebar-footer" style="margin-top: 10px;">
+          <button id="btn-finish-practice" class="btn-submit-exam" style="background: linear-gradient(180deg, #2e7d32, #1b5e20);">Kết thúc & Xem điểm</button>
+          <div class="app-version">CHẾ ĐỘ TỰ ÔN TẬP • BK-CCE</div>
+        </div>
+      </aside>
+
+      <!-- CỘT PHẢI: NỘI DUNG CÂU HỎI -->
+      <section class="right-workspace">
+        <div id="practice-question-box" class="question-box"></div>
+        <div class="section-divider-dots">...</div>
+        <div id="practice-options-box" class="options-box"></div>
+        <div id="practice-bottom-nav" class="bottom-nav-bar"></div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- Nạp dữ liệu 300 câu hỏi CNTT Nâng Cao -->
+  <script src="js/questions.js"></script>
+  <!-- Nạp mã nguồn ôn tập -->
+  <script src="js/practice.js"></script>
+</body>
+</html>

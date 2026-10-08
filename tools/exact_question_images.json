@@ -1,0 +1,212 @@
+{
+  "1_5": {
+    "form_id": 1,
+    "q_idx": 5,
+    "q_number": 6,
+    "q_text": "Với MS Word, để định dạng hình ảnh với văn bản, ta",
+    "image": "assets/images/m1_q6.jpg"
+  },
+  "1_12": {
+    "form_id": 1,
+    "q_idx": 12,
+    "q_number": 13,
+    "q_text": "Trong MS Word, muốn sử dụng Wizard để tạo một bức ",
+    "image": "assets/images/m1_q13.jpg"
+  },
+  "2_39": {
+    "form_id": 2,
+    "q_idx": 39,
+    "q_number": 40,
+    "q_text": "Trong MS Word, trong thao tác phối thư (MailMerge)",
+    "image": "assets/images/m2_q40.jpg"
+  },
+  "3_1": {
+    "form_id": 3,
+    "q_idx": 1,
+    "q_number": 2,
+    "q_text": "Chế độ Mark as Final trong MS Excel có tác dụng gì",
+    "image": "assets/images/m3_q2.jpg"
+  },
+  "3_4": {
+    "form_id": 3,
+    "q_idx": 4,
+    "q_number": 5,
+    "q_text": "Trong MS Excel, chế độ bảo mật: “Protect Workbook ",
+    "image": "assets/images/m3_q5.jpg"
+  },
+  "3_5": {
+    "form_id": 3,
+    "q_idx": 5,
+    "q_number": 6,
+    "q_text": "Để văn bản tự động xuống hàng trên một ô ta thực h",
+    "image": "assets/images/m3_q6.jpg"
+  },
+  "3_6": {
+    "form_id": 3,
+    "q_idx": 6,
+    "q_number": 7,
+    "q_text": "Để thiết lập được lề trang in ta thực hiện:",
+    "image": "assets/images/m3_q7.jpg"
+  },
+  "3_8": {
+    "form_id": 3,
+    "q_idx": 8,
+    "q_number": 9,
+    "q_text": "Để nhập nội dung vào Header và Footer của Microsof",
+    "image": "assets/images/m3_q9.jpg"
+  },
+  "3_11": {
+    "form_id": 3,
+    "q_idx": 11,
+    "q_number": 12,
+    "q_text": "Trong bảng tính MS Excel, cho bảng số liệu tiền lư",
+    "image": "assets/images/m3_q12.jpg"
+  },
+  "3_17": {
+    "form_id": 3,
+    "q_idx": 17,
+    "q_number": 18,
+    "q_text": "Trong MS Excel, kết quả nào sau đây là sai?",
+    "image": "assets/images/m3_q18.jpg"
+  },
+  "3_18": {
+    "form_id": 3,
+    "q_idx": 18,
+    "q_number": 19,
+    "q_text": "Trong MS Excel, cho một worksheet như hình bên dướ",
+    "image": "assets/images/m3_q19.jpg"
+  },
+  "3_23": {
+    "form_id": 3,
+    "q_idx": 23,
+    "q_number": 24,
+    "q_text": "Cho bảng số liệu như sau trong MS Excel. Tính tổng",
+    "image": "assets/images/m3_q24.jpg"
+  },
+  "3_24": {
+    "form_id": 3,
+    "q_idx": 24,
+    "q_number": 25,
+    "q_text": "Cho bảng số liệu như sau trong MS Excel như hình b",
+    "image": "assets/images/m3_q25.jpg"
+  },
+  "3_28": {
+    "form_id": 3,
+    "q_idx": 28,
+    "q_number": 29,
+    "q_text": "Trong bảng tính MS Excel, tại ô A2 có sẵn giá trị ",
+    "image": "assets/images/m3_q29.jpg"
+  },
+  "3_33": {
+    "form_id": 3,
+    "q_idx": 33,
+    "q_number": 34,
+    "q_text": "Cho bảng số liệu như sau trong MS Excel  \nDựa vào ",
+    "image": "assets/images/m3_q34.jpg"
+  },
+  "3_37": {
+    "form_id": 3,
+    "q_idx": 37,
+    "q_number": 38,
+    "q_text": "Trong MS Excel, câu nào sau đây sai nhất?",
+    "image": "assets/images/m3_q38.jpg"
+  },
+  "3_38": {
+    "form_id": 3,
+    "q_idx": 38,
+    "q_number": 39,
+    "q_text": "Trong MS Excel, khi lọc nâng cao (Advanced Filter)",
+    "image": "assets/images/m3_q39.jpg"
+  },
+  "3_40": {
+    "form_id": 3,
+    "q_idx": 40,
+    "q_number": 41,
+    "q_text": "Trong MS Excel, phát biểu nào là sai về các hàm cơ",
+    "image": "assets/images/m3_q41.jpg"
+  },
+  "3_44": {
+    "form_id": 3,
+    "q_idx": 44,
+    "q_number": 45,
+    "q_text": "Trong Excel, để lấy họ của sinh viên nếu họ và tên",
+    "image": "assets/images/m3_q45.jpg"
+  },
+  "3_46": {
+    "form_id": 3,
+    "q_idx": 46,
+    "q_number": 47,
+    "q_text": "Trong MS Excel, giả sử tại ô A1 chứa giá trị 28450",
+    "image": "assets/images/m3_q47.jpg"
+  },
+  "3_48": {
+    "form_id": 3,
+    "q_idx": 48,
+    "q_number": 49,
+    "q_text": "Trong bảng tính Excel, khối ô là tập hợp nhiều ô k",
+    "image": "assets/images/m3_q49.jpg"
+  },
+  "5_27": {
+    "form_id": 5,
+    "q_idx": 27,
+    "q_number": 28,
+    "q_text": "Chức năng nào sau đây không có trong MS PowerPoint",
+    "image": "assets/images/m5_q28.jpg"
+  },
+  "6_2": {
+    "form_id": 6,
+    "q_idx": 2,
+    "q_number": 3,
+    "q_text": "Bên dưới là hình mô tả các hiệu ứng chuyển động tr",
+    "image": "assets/images/m6_q3.jpg"
+  },
+  "6_7": {
+    "form_id": 6,
+    "q_idx": 7,
+    "q_number": 8,
+    "q_text": "Trong PowerPoint, để hiệu ứng cho một đối tượng tự",
+    "image": "assets/images/m6_q8.jpg"
+  },
+  "6_10": {
+    "form_id": 6,
+    "q_idx": 10,
+    "q_number": 11,
+    "q_text": "Khi tạo hiệu ứng chuyển trang cho Slide, muốn hiệu",
+    "image": "assets/images/m6_q11.jpg"
+  },
+  "6_14": {
+    "form_id": 6,
+    "q_idx": 14,
+    "q_number": 15,
+    "q_text": "Trong PowerPoint, khi lưu với phần mở rộng là PPSX",
+    "image": "assets/images/m6_q15.jpg"
+  },
+  "6_25": {
+    "form_id": 6,
+    "q_idx": 25,
+    "q_number": 26,
+    "q_text": "Trong PowerPoint, để chuyển tập tin trình diễn san",
+    "image": "assets/images/m6_q26.jpg"
+  },
+  "6_31": {
+    "form_id": 6,
+    "q_idx": 31,
+    "q_number": 32,
+    "q_text": "Trong PowerPoint, có thể xuất bài trình chiếu qua?",
+    "image": "assets/images/m6_q32.jpg"
+  },
+  "6_37": {
+    "form_id": 6,
+    "q_idx": 37,
+    "q_number": 38,
+    "q_text": "Trong MS PowerPoint, phát biểu nào sau đây là sai?",
+    "image": "assets/images/m6_q38.jpg"
+  },
+  "6_42": {
+    "form_id": 6,
+    "q_idx": 42,
+    "q_number": 43,
+    "q_text": "Chức năng nào trong nhóm công cụ sau dùng để trình",
+    "image": "assets/images/m6_q43.jpg"
+  }
+}

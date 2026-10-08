@@ -1,0 +1,302 @@
+=== Phần 1: Word Nâng Cao (Câu 1 - 50) ===
+
+Câu 1: Trong MS Word, Khi một từ không có trong danh sách sửa lỗi mặc định (Auto Correct), nó sẽ được biểu thị thế nào trên màn hình?
+  A. Có đường lượn sóng màu xanh lá phía dưới
+  B. Có đường chấm tím phía dưới
+  C. Có đường lượn sóng màu đỏ phía dưới
+  D. Được đánh dấu bằng màu vàng
+
+Câu 2: Trong Page Setup mục Gutter dùng để quy định:
+  A. Khoảng cách từ mép đến trang in
+  B. Chia văn bản thành số đoạn theo ý muốn
+  C. Phần chừa trống để đóng thành tập.
+  D. Lề của văn bản
+
+Câu 3: Trong Page Setup thẻ Margins, mục Mirror Margins dùng để:
+  A. Đặt lề cho văn bản cân xứng
+  B. Đặt lề cho các trang chẳn và lẻ đối xứng
+  C. Đặt cho tiêu đề cân xứng với văn bản
+  D. Đặt lề cho các section đối xứng nhau
+
+Câu 4: Trong MS Word, tắt chức năng kiểm tra ngữ pháp tiếng Anh, bạn sử dụng lựa chọn nào?
+  A. File - Options - Advanced
+  B. File - Options - Proofing
+  C. Review – Spelling & Grammar - Ignore
+  D. Review - Proofing
+
+Câu 5: Khi soạn thảo văn bản trong Microsoft Word, để khai báo thời gian tự lưu văn bản, ta thực hiện _____
+  A. File - Options - Save chọn thời gian tại mục Save AutoRecover info every
+  B. Home - Options - Save chọn thời gian tại mục Save AutoRecover info every
+  C. View - Options - Save chọn thời gian tại mục Save AutoRecover info every
+  D. Insert - Options - Save chọn thời gian tại mục Save AutoRecover info every
+
+Câu 6: Với MS Word, để định dạng hình ảnh với văn bản, ta ấn chuột phải vào hình ành và chọn_____
+  A. AutoShape
+  B. Format AutoShape
+  C. Format Picture
+  D. Auto Picture
+
+Câu 7: Trong MS Word, các đường gạch chân xanh-đỏ xuất hiện khi gõ văn bản có ý nghĩa gì?
+  A. Do máy bị nhiễm virus
+  B. Gạch màu xanh là do sai chính tả, màu đỏ là do ngữ pháp có vấn đề
+  C. Gạch màu xanh là do ngữ pháp có vấn đề, màu đỏ là do sai chính tả
+  D. Word tự động thêm cho đẹp
+
+Câu 8: Template mặc nhiên nào được dùng cho các tài liệu mới trong MS Word?
+  A. Blank.DOT.
+  B. Default.DOT.
+  C. Không có.
+  D. Normal.DOT.
+
+Câu 9: Trong bộ Microsoft Office, câu nào sau đây sai?
+  A. Thanh ribbon sẽ thay đổi chức năng dành riêng cho đối tượng đang soạn thảo
+  B. Thanh ribbon có thể được tuỳ biến dễ dàng
+  C. Backstage View có thể được tuỳ biến dễ dàng
+  D. Quick Access Toolbar có thể được tuỳ biến dễ dàng
+
+Câu 10: Câu nào sau đây đúng?
+  A. Các máy tính gần nhau mặc định sẽ thấy nhau dù không cùng lớp mạng
+  B. Nếu chỉ có một máy tính thì nó không thể chia sẽ dữ liệu
+  C. Máy khác có thể thay đổi các tập tin chia sẽ khi chưa được phép
+  D. Hai máy tính vẫn có thể kết nối với nhau mà không quan tâm đến khoảng cách địa lý là bao xa
+
+Câu 11: Trong MS Word, phát biểu nào sau đây là sai?
+  A. Nội dung sao chép từ Excel sẽ tự động đặt trong Table
+  B. Việc chèn video vào văn bản sẽ làm văn bản trở nên nặng hơn
+  C. Có thể lưu văn bản thành dạng .pptx để đọc trên PowerPoint
+  D. Là một ứng dụng cho phép soạn thảo và thiết kế các biểu mẫu, báo cáo
+
+Câu 12: Trong MS Word, bạn đang gõ dòng chữ "Cộng hòa xã hội chủ nghĩa Việt Nam" bằng font chữ Times New Roman, Unicode
+  A. Bạn có thể chuyển sang font .Vn times bằng cách bôi đen dòng chữ trên và lựa chọn .Vntimes trong hộp thoại Font, các chữ đó vẫn đọc bình thường
+  B. Bạn có thể chuyển sang font .Vn times bằng cách bôi đen dòng chữ trên và lựa chọn .Vntimes trên thanh công cụ, các chữ đó vẫn đọc bình thường
+  C. Để chuyển font mà vẫn đọc bình thường, bạn chỉ cần nhấn Format chọn Theme
+  D. Bạn cần sử dụng một phần mềm cho phép thực hiện điều này, ví dụ như Vietkey Office hoăc Unikey
+
+Câu 13: Trong MS Word, muốn sử dụng Wizard để tạo một bức thư có sẵn, ta thực hiện?
+  A. Vào File/New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+  B. Ấn Ctrl+N/ Chọn Letters/ Chọn mẫu Letter muốn tạo/Download
+  C. Vào Home/New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+  D. Vào New/ Letters/ Chọn mẫu Letter muốn tạo/Download
+
+Câu 14: Trong MS Word, để lưu văn bản trên môi trường mạng ta thực hiện:
+  A. Vào File/Save & Send/ Save to Web
+  B. Vào Home/Save & Send/ Save to Web
+  C. Vào Insert/Save & Send/ Save to Web
+  D. Vào View/Save & Send/ Save to Web
+
+Câu 15: Trong MS Word, để lưu văn bản sang file .pdf ta thực hiện?
+  A. Vào File/Save/Trong mục Save as Type chọn PDF(*.pdf).
+  B. Vào Home/Save/Trong mục Save as Type chọn PDF(*.pdf).
+  C. Vào Insert/Save/Trong mục Save as Type chọn PDF(*.pdf).
+  D. Vào View/Save/Trong mục Save as Type chọn PDF(*.pdf).
+
+Câu 16: Trong MS Word, để đặt mật khẩu cho văn bản ta làm thế nào:
+  A. Vào File/ Info/Chọn Protect Document/ Encrypt with Password
+  B. Vào Home/ Info/Chọn Protect Document/ Encrypt with Password
+  C. Vào Insert/ Info/Chọn Protect Document/ Encrypt with Password
+  D. Vào View/ Info/Chọn Protect Document/ Encrypt with Password
+
+Câu 17: Khi cần so sánh hai phiên bản của văn bản Word, bạn sử dụng lựa chọn nào?
+  A. View-Compare …
+  B. Review-Compare …
+  C. View-Combine …
+  D. Review-Combine …
+
+Câu 18: Trong MS Word, để hủy chế độ bảo vệ đối với một biểu mẫu, ta sẽ:
+  A. Chọn File -Info - Protect Document Encrypt with Password, gỡ mật khẩu
+  B. Chọn Review - Restrict Formatting and Editing - Stop Protection
+  C. Chọn File -Word Options - Protect Document - Encrypt with Password, gỡ mật khẩu
+  D. Tất cả đều đúng.
+
+Câu 19: Trong Word, muốn hiển thị hoặc làm ẩn các thẻ trên thanh thực đơn, bạn sử dụng lựa chọn nào?
+  A. File-Options-Customize Ribbon. Chọn hoặc bỏ chọn các tabs trong Main Tabs
+  B. File-Options-Quick Access Toolbar
+  C. File-Options-Add-in
+  D. File-Options-Display
+
+Câu 20: Trong MS Word, thao tác vào Home-Select-Select All Text With Similar Formatting (No Data) dùng để làm gì?
+  A. Để chọn các đoạn văn bản có cùng định dạng
+  B. Để chọn cùng một lúc nhiều đoạn văn bản
+  C. Để xoá cùng lúc nhiều đoạn văn bản
+  D. Để định dạng nhanh các đoạn văn  bản
+
+Câu 21: Trong Microsoft Word, thao tác nào để sao chép định dạng và áp đặt định dạng cho nhiều dòng liên tiếp?
+  A. Bấm nút Format Painter trên thanh công cụ.
+  B. Bấm đúp nút Format Painter trên thanh công cụ.
+  C. Không thực hiện được.
+  D. Mở hộp thoại Copy and Apply Formatting bắng cách dùng lệnh Format - Copy Formatting từ menu.
+
+Câu 22: Trong Microsoft Word, câu nào sau đây là không đúng trong trường hợp định dạng đoạn - Paragraph?
+  A. Bấm nút Center trên thanh công cụ sẽ canh đoạn hiện hành hoặc đã chọn vào giữa trang.
+  B. Khoảng cách canh cột mặc nhiên là ½ inch.
+  C. Khi đặt một nút canh cột nó sẽ có tác dụng trên tất cả các đoạn văn bản trong tài liệu.
+  D. Hai loại canh lề đặc biệt là: First Line và Hanging trong Paragraph.
+
+Câu 23: Trong Microsoft Word, để nhập dữ liệu và di chuyển trong table, phát biểu nào sau đây là đúng?
+  A. Tab để di chuyển qua ô kế tiếp, Shift+Tab để đi theo hướng ngược lại.
+  B. Enter để di chuyển qua ô kế tiếp, Shift+enter để đi theo hướng ngược lại.
+  C. Mũi tên phải để di chuyển qua ô kế tiếp, mũi tên trái để đi theo hướng ngược lại.
+  D. Mũi tên lên để di chuyển qua ô kế tiếp, mũi tên xuống để đi theo hướng ngược lại.
+
+Câu 24: Trong Microsoft Word, Style là gì?
+  A. Cùng nghĩa với style trong thế giới thời trang.
+  B. Một tập hợp các định dạng lưu trữ thành một tên gọi riêng và dễ dàng áp đặt lên các đối tượng khác bằng một thao tác duy nhất.
+  C. Một loại tài liệu đặc biệt.
+  D. Một thành phần định dạng chỉ dùng trong trang Web.
+
+Câu 25: Trong Microsoft Word các thành phần Block Arrows, Stars and Banners, và Callouts là các ví dụ của _____
+  A. Các kiểu trò chơi xây dựng của trẻ em.
+  B. Các chủ đề Clip art trong bộ sưu tập Microsoft Clip Gallery.
+  C. Các chủ đề AutoShape .
+  D. Một thuật ngữ kỹ thuật chưa xác định.
+
+Câu 26: Trong Microsoft Word, chức năng nào được dùng để trộn các ô trong bảng biểu?
+  A. Cell Margins
+  B. Split Cells
+  C. Mail Merge
+  D. Merge Cells
+
+Câu 27: Trong Microsoft Word, phát biểu nào sau đây là sai?
+  A. Màu trang giấy của Word có thể đổi bằng chức năng Shading
+  B. Chức năng Save và Save As là giống nhau khi lưu văn bản lần đầu
+  C. Chức năng Paragraph được dùng để định dạng 1 hoặc nhiều đoạn văn
+  D. Kích thước chữ nhỏ nhất mà Word cho phép là 1
+
+Câu 28: Khả năng nào sau đây không có trong Microsoft Word?
+  A. Vẽ các cạnh của bảng (draw table) có thể dùng để tách các ô (split cells)
+  B. Xoá các cạnh của bảng có thể dùng để trộn các ô (merge cells)
+  C. Có thể viết chữ theo hướng xéo trong một ô
+  D. Có thể vẽ đường viền theo kiểu răng cưa
+
+Câu 29: Trong Microsoft Word, câu nào sau đây sai?
+  A. Có thể chèn văn bản (text) vào hầu hết đối tượng vẽ (shape)
+  B. Có thể chuyển đổi từ đối tượng vẽ này thành đối tượng vẽ khác nhanh chóng
+  C. Có thể nhóm (group) các đối tượng vẽ với nhau
+  D. Có thể chia cột cho văn bản trong đối tượng Shape
+
+Câu 30: Trong Microsoft Word, câu nào sau đây sai?
+  A. Có thể chèn các công thức toán học vào văn bản và giải các công thức này tự động
+  B. Có thể chèn các ký tự đặc biệt có trong các font chữ trong máy
+  C. Có thể định dạng hiệu ứng chữ bằng WordArt
+  D. Có thể làm việc với bảng tính như trong Excel
+
+Câu 31: Trong Microsoft Word, chức năng nào dùng để ngắt cột?
+  A. Chọn thẻ Insert - Page Break
+  B. Sử dụng phím tắt Ctrl+Enter
+  C. Chọn thẻ Page Layout - Breaks - Column
+  D. Chọn thẻ Page Layout - Columns
+
+Câu 32: Trong Microsoft Word, ký hiệu |_ trên thanh thước có nghĩa là gì?
+  A. Canh lề trái cho đoạn văn
+  B. Canh lề phải cho đoạn văn
+  C. Canh văn bản ở mép trái tại vị trí TAB
+  D. Canh văn bản ở mép phải tại vị trí TAB
+
+Câu 33: Trong Microsoft Word, ký hiệu _|_  trên thanh thước có nghĩa là gì?
+  A. Canh lề trái cho đoạn văn
+  B. Canh lề phải cho đoạn văn
+  C. Canh văn bản ở giữa tại vị trí TAB
+  D. Canh văn bản ở mép phải tại vị trí TAB
+
+Câu 34: Trong Microsoft Word, ký hiệu _| trên thanh thước có nghĩa là gì?
+  A. Canh lề trái cho đoạn văn
+  B. Canh lề phải cho đoạn văn
+  C. Canh văn bản ở mép trái tại vị trí TAB
+  D. Canh văn bản ở mép phải tại vị trí TAB
+
+Câu 35: Trong Microsoft Word, muốn tạo chữ rơi cho văn bản, ta thực hiện
+  A. Page layout – Dropcap
+  B. View – Dropcap
+  C. Home – Dropcap
+  D. Insert – Dropcap
+
+Câu 36: Trong MS Word, chức năng Home → Clear All Formatting được sử dụng để?
+  A. Định dạng ký tự
+  B. Loại bỏ toàn bộ định dạng
+  C. Xóa văn bản
+  D. Định dạng văn bản
+
+Câu 37: Trong Microsoft Word, sau khi chọn toàn bộ văn bản trong bảng (table) và bấm nút Delete thì chuyện gì sẽ xảy ra?
+  A. Xóa toàn bộ văn bản và table
+  B. Chỉ xóa toàn bộ văn bản
+  C. Chỉ xóa toàn bộ định dạng
+  D. Chỉ xóa table
+
+Câu 38: Trong Microsoft Word, phát biểu nào sau đây là đúng nhất?
+  A. Có thể đặt lại chỉ mục của chức năng Numbering nhưng phải qua trang văn bản khác
+  B. Bullets và Numbering đều có chức năng tương tự nhau là đánh dấu đầu mỗi đoạn văn
+  C. Canh lề của chức năng Bullets khi được tạo ra là cố định và không thể thay đổi
+  D. Không thể sử dụng hình ảnh trong máy tính để sử dụng cho Bullets
+
+Câu 39: Trong MS Word, thao tác nào để thay thế tất cả từ “hay” trong một tài liệu dài bằng từ “tuyệt vời ?
+  A. Chọn Edit - Replace từ menu , gõ “hay” trong hộp Find What , gõ từ “tuyệt vời” trong hộp Replace With rồi bấm nút Replace All.
+  B. Không có cách nào thay thế hàng loạt bạn phải xoá và gõ lại từng từ.
+  C. Bấm nút Find and Replace trên thanh công cụ, sau đó làm theo chỉ dẫn trên màn hình.
+  D. Chọn Tools - Replace từ menu , gõ “hay” trong hộp Find what , gõ từ “tuyệt vời” trong hộp Replace with rồi bấm nút Replace All.
+
+Câu 40: Chức năng nào dưới đây không được dùng để canh lề đoạn văn trong MS Word?
+  A. Trái
+  B. Giữa
+  C. Phải
+  D. Thập phân
+
+Câu 41: Trong MS Word, thao tác nào được dùng để thay đổi ký hiệu đánh dấu đầu đoạn (bullet)?
+  A. Bấm nút Bullets trên thanh công cụ rồi chọn ký hiệu.
+  B. Không thể thay đổi ký hiệu đó, chỉ có thể xóa đi và làm lại.
+  C. Chọn Edit - Bullet Symbol từ menu, chọn ký hiệu từ danh sách.
+  D. Chọn Format - Bullets and Numbering từ menu, chọn bulleted list rồi bấm nút Customize, và chọn ký tự muốn sử dụng
+
+Câu 42: Phát biểu nào đúng khi ta sửa đổi một tùy chọn định dạng trong một style trong MS Word?
+  A. Chỉ đoạn văn đang chọn bị thay đổi định dạng
+  B. Chỉ những đoạn văn đang được chọn mới bị thay đổi
+  C. Thay đổi định dạng cho toàn bộ các đoạn văn trong tất cả các tập tin Word có cùng định dạng.
+  D. Tất cả đoạn văn có cùng kiểu Style sẽ bị thay đổi định dạng
+
+Câu 43: Phát biểu nào sau đây là không đúng trong MS Word?
+  A. Giữ phím Shift khi vẽ elip, hình chữ nhật sẽ tạo ra đường tròn, hình vuông.
+  B. Trong thanh công cụ Drawing chứa các công cụ vẽ đường thẳng, vẽ hình tròn,....
+  C. Không thể định dạng nội dung trong hộp textbox.
+  D. Có thể thay đổi kích cỡ hộp textbox bằng cách chọn và kéo thả.
+
+Câu 44: Trong chế độ tạo bảng (Table) của phần mềm MS Word, muốn tách một ô thành nhiều ô, ta thực hiện _____
+  A. Table - Cells
+  B. Table tools - Layuot - Split Cells
+  C. Tools – Layout
+  D. Table - Split Cells
+
+Câu 45: Trong MS Word, để định dạng văn bản theo kiểu danh sách, ta thực hiện _____
+  A. Thẻ Home - Paragraph - nhấn vào nút Bullets hoặc Numbering
+  B. Tools - Bullets and Numbering
+  C. Format - Bullets and Numbering
+  D. Edit - Bullets and Numbering
+
+Câu 46: Trong MS Word, để thay đổi khoảng cách giữa các ký tự, ta thực hiện _____
+  A. Thẻ Home - Font nhấn nút mũi tên bên dưới - chọn thẻ Advance - chọn Expanded hoặc Condensed tại mục Character Spacing.
+  B. Thẻ Insert - Font nhấn nút mũi tên bên dưới - chọn thẻ Spacing - chọn Expanded hoặc Condensed tại mục Character Spacing.
+  C. Thẻ Page Layout - Font nhấn nút mũi tên bên dưới - chọn thẻ Spacing - chọn Expanded hoặc mục Character Spacing
+  D. Thẻ Review - Font nhấn nút mũi tên bên dưới - chọn thẻ Character Spacing - chọn Expanded hoặc Condensed tại mục Character Spacing.
+
+Câu 47: Trong MS Word, để tìm và thay thế những định dạng đặc biệt, ta thực hiện:
+  A. Thẻ Mailings - Edit - nhấn nút Find/Replace - More Format
+  B. Thẻ Insert - Edit - nhấn nút Find/Replace - More - Format
+  C. Thẻ Page Layout - Edit - nhấn nút Find/Replace - More -Format
+  D. Thẻ Home - Editing - nhấn nút Find hoặc Replace - More - Format
+
+Câu 48: Các nguồn hình ảnh nào không được dùng trong MS Word?
+  A. Thư viện hình sẵn có (clipart) và bộ nhớ nháp (clipboard)
+  B. Tập tin hình ảnh và sao chụp màn hình (screenshot)
+  C. Tập tin hình ảnh, video và bộ nhớ nháp (clipboard)
+  D. Các tập tin hình ảnh có sẵn trong máy tính
+
+Câu 49: Trong MS Word, đâu không phải là lợi ích khi chính dùng định dạng kiểu styles?
+  A. Định dạng văn bản một cách nhất quán
+  B. Dễ dàng thay đổi định dạng văn bản sang một kiểu khác (style set khác)
+  C. Tạo mục lục (table of content) nhanh chóng
+  D. Dễ dàng phân biệt các đoạn văn trong văn bản
+
+Câu 50: Trong MS Word, đối tượng hình ảnh không có chức năng nào dưới đây?
+  A. Trong suốt và đổ bóng mờ
+  B. Xoay 1 góc bất kỳ
+  C. Cắt gọt theo một hình dạng cho trước
+  D. Tạo hiệu ứng bẻ cong hình
+

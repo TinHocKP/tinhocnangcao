@@ -1,0 +1,303 @@
+=== Phần 3: PowerPoint Nâng Cao (Câu 1 - 50) ===
+
+Câu 1: Khi chỉnh sửa layout các slide trong MS PowerPoint, các đặc tính nào sau đây là 
+đúng?
+  A. Có thể chuyển từ layout này sang layout khác
+  B. Có thể điều chỉnh layout của một slide bằng cách sao chép định dạng (format painter) từ một slide khác
+  C. Có thể thêm một layout mới mà không cần dùng Master Slide
+  D. Không thể đổi tên của Layout
+
+Câu 2: Trong PowerPoint, từ khóa nào không xuất hiện trên thanh ribbon
+  A. Bookmark
+  B. Action
+  C. Trigger
+  D. Macros
+
+Câu 3: Lựa chọn nào sau đây không thuộc về thẻ View trong Powerpoint?
+  A. Slide Sorter
+  B. Notes Page
+  C. Outline view
+  D. Use Presenter View
+
+Câu 4: Để một bài thuyết trình đạt hiệu quả cao, chúng ta cần quan tâm tới vấn đề nào đầu tiên?
+  A. Đối tượng nghe bài thuyết trình
+  B. Phương pháp thuyết trình
+  C. Tùy theo từng thời điểm hoặc đối tượng nghe và vấn đề quan tâm sẽ khác nhau
+  D. Hình thức và nội dung bài thuyết trình
+
+Câu 5: Trong MS PowerPoint, nếu muốn logo của đơn vị luôn xuất hiện trong từng slide thuyết trình, không thể dùng những cách nào sau đây?
+  A. Chèn vào trong slide ở chế độ Slide Master
+  B. Luôn sao chép slide có chứa logo này thành slide mới rồi mới sửa nội dung
+  C. Chèn hình ảnh logo cho mỗi slide
+  D. Chỉ cần chèn logo vào slide đẩu của mỗi layout, các slide sau sẽ tự động sao chép logo đó
+
+Câu 6: Chức năng nào không có khi làm việc với Section trong MS PowerPoint?
+  A. Rename Section
+  B. Duplicate Section
+  C. Remove Section
+  D. Remove Section & Slides
+
+Câu 7: Trong MS PowerPoint, phát biểu nào sau đây là sai?
+  A. Có thể chọn mẫu thiết kế (Design) khác nhau cho từng Slide
+  B. Không thể tự động áp dụng hiệu ứng của một cho Slide cho toàn bộ các Slide khác mà phải chỉnh bằng tay
+  C. Chức năng Header & Footer của PowerPoint không đa năng như trong Word
+  D. Không thể ngắt cột sau khi chia trong PowerPoint
+
+Câu 8: Trong PowerPoint, câu nào sau đây đúng nhất?
+  A. Có thể chia bài thuyết trình thành nhiều section
+  B. Vùng Content có thể chứa một bảng (table)
+  C. Khi trình chiếu, phần notes của từng slide được hiện ra trên màn hình trình chiếu
+  D. Có thể dùng nhiều layout khác nhau trong bài thuyết trình
+
+Câu 9: Trong PowerPoint, thành phần nào không thuộc một Slide.
+  A. Title
+  B. Content
+  C. Slide Footer Area
+  D. Slide Hearder Area
+
+Câu 10: Trong PowerPoint, chức năng “Don’t show on title slide” trong Header & footer có tác dụng gì?
+  A. Không hiểu thị Header& Footer ở Slide đầu tiên
+  B. Không hiển thị Header&Footer ở tất cả các Slide có kiểu layout là title Slide
+  C. Không hiểu thị Header&Footer khi trình chiếu
+  D. Không hiển thị Header&Footer khi thiết kế Slide nhưng sẽ hiển thị khi trình chiếu
+
+Câu 11: Phát biểu nào là sai về Slide Master trong PowerPoint?
+  A. Xác định định dạng thống nhất cho mọi slide trong một tập tin thuyết trình
+  B. Chèn các đối tượng (hình ảnh) mặc nhiên trên nền slide
+  C. Xác định các dạng layout có thể có trong một tập tin thuyết trình
+  D. Nội dung ghi trong Slide master sẽ không bị mất khi trình chiếu Slide
+
+Câu 12: Trong PowerPoint, phát biểu nào sau đây là sai?
+  A.  Slide master thường được sử dụng để thiết kế mẫu chung cho toàn bộ Slide
+  B.  Nội dung được viết trong Slide Master sẽ không được hiển thị khi trình chiếu
+  C.  Có thể tạo nhiều Slide Master cho bài thuyết trình
+  D.  Không thể thêm các hiệu ứng động và chuyển Slide trong Slide Master
+
+Câu 13: Trong PowerPoint, thao tác nào sau đây để tạo mới 1 tập tin trình diễn theo mẫu giao diện (Themes) của chương trình?
+  A.  Vào Home / New / Chọn mẫu / OK
+  B.  Vào Home / New / Chọn mẫu / Create
+  C.  Vào File / New / Chọn mẫu / Create
+  D.  Vào File / New / Chọn mẫu / OK
+
+Câu 14: Trong chương trình MS PowerPoint, chức năng Design/Themes dùng để làm gì?
+  A.  Định dạng hiệu ứng lật trang
+  B.  Định dạng giao diện của slide
+  C.  Định đạng hiệu ứng cho các đối tượng trên slide
+  D.  Định dạng kiểu chữ cho slide
+
+Câu 15: Trong PowerPoint, cách nào để lựa chọn bố cục cho Slide?
+  A.  Format /Slide Design
+  B.  Home/Layout
+  C.  Insert/New Slide
+  D.  Home/New Slide
+
+Câu 16: Trong PowerPoint, cách nào sau đây cho phép định dạng chung cho toàn bộ các Slide?
+  A.  View/Notes Page
+  B.  View/Slide Master
+  C.  View/Normal
+  D.  View/Slide Sorter
+
+Câu 17: Trong PowerPoint, cách nào để lựa chọn bố cục cho Slide đã chọn gồm tiêu đề và nội dung?
+  A. Tùy chọn 1
+  B.  Home/Layout/Title and Content
+  C.  Home/Slide Design
+  D.  Home/Layout/Title Slide
+
+Câu 18: Trong PowerPoint, thao tác nào sau đây để bổ sung mẫu giao diện của tập tin trình diễn hiện tại vào chương trình?
+  A.  Vào File / More / Save Current Theme.
+  B.  Vào Design / More / Save Current Theme .
+  C.  Vào Insert / More / Save Current Theme.
+  D.  Vào Home / More / Save Current Theme .
+
+Câu 19: Trong PowerPoint, thao tác View/Slide Master dùng để làm gì?
+  A.  Định dạng cho từng các Slide
+  B.  Định dạng chung cho toàn bộ các Slide
+  C.  Định dạng cho văn bản cho từng slide
+  D.  Định dạng phông nền cho từng slide
+
+Câu 20: Phát biểu nào sau đây đúng?
+  A.  Trong chương trình MS PowerPoint, chúng ta chỉ có thể thiết lập các tùy chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc.
+  B.  Trong chương trình MS PowerPoint, chúng ta có thể thiết lập các tùy chọn cho một slide hay một tập slide cùng một lúc.
+  C.  Trong chương trình MS PowerPoint, chúng ta chỉ có thể thay đổi theme một lần.
+  D.  Trong chương trình MS PowerPoint, không thể thay đổi hiệu ứng chuyển Slide sau khi đã chọn.
+
+Câu 21: Trong PowerPoint, chọn nhóm thao tác nào để tạo màu nền cho toàn bộ Slide?
+  A.  Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Close
+  B.  Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply to All/ Close
+  C.  Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Reset Background
+  D.  Kích chuột phải vào Slide/Format Background/ chọn màu trong Fill/ Apply
+
+Câu 22: Trong MS PowerPoint, phát biểu nào sau đây là sai?
+  A.  Không thể chèn bảng vào trong bảng bình thường như trong Word
+  B.  Bảng có thể là vùng Content hoặc đứng độc lập
+  C.  Có thể dùng hiệu ứng định dạng ô (cell) khác nhau trong table
+  D.  Không thể xoay hướng của văn trong trong table
+
+Câu 23: Trong MS PowerPoint, khả năng nào sau đây là không đúng?
+  A.  Có thể tập thuyết trình trước dùng chức năng Rehearse Timings
+  B.  Cho phép nén video có trong slide bằng chức năng Compress Pictures
+  C.  Cho phép xuất tập tin thuyết trình thành một video
+  D.  Có thể xuất tập tin với dạng thuyết trình và không thể chỉnh sửa nội dung của dạng tập tin này
+
+Câu 24: Trong MS PowerPoint, các hiệu ứng động dạng Entrance (màu xanh lá) là hiệu ứng
+  A.  Xuất hiện
+  B.  Nhấn mạnh
+  C.  Biến mất
+  D.  Di chuyển
+
+Câu 25: Trong MS PowerPoint, các hiệu ứng động dạng Emphasis (màu vàng) là hiệu ứng _____
+  A.  Xuất hiện
+  B.  Nhấn mạnh
+  C.  Biến mất
+  D.  Di chuyển
+
+Câu 26: Trong MS PowerPoint, các hiệu ứng động dạng Exit (màu đỏ) là hiệu ứng _____
+  A.  Xuất hiện
+  B.  Nhấn mạnh
+  C.  Biến mất
+  D.  Di chuyển
+
+Câu 27: Trong MS PowerPoint, các hiệu ứng động dạng Motion Path là hiệu ứng _____
+  A.  Xuất hiện
+  B.  Nhấn mạnh
+  C.  Biến mất
+  D.  Di chuyển
+
+Câu 28: Chức năng nào sau đây không có trong MS PowerPoint?
+  A.  Column
+  B.  Equation
+  C.  Header & Footer
+  D.  DropCap
+
+Câu 29: Trong MS PowerPoint, thông số nào không có trong chức năng Animation - Timing của PowerPoint?
+  A.  Time
+  B.  Repeat
+  C.  Duration
+  D.  Delay
+
+Câu 30: Trong MS PowerPoint, phát biểu nào sau đây là sai?
+  A.  SmartArt sẽ tự động tùy chỉnh kích cữ chữ để vừa với kích thước
+  B.  Có thể chuyển đổi qua lại giữa SmartArt và Shapes
+  C.  Tùy chỉnh các đối tượng SmartArt cũng tương tự như Shapes
+  D.  Có thể thểm/bớt các thành phần trong SmartArt tùy ý
+
+Câu 31: Nhóm Shapes nào chỉ có trong MS PowerPoint mà không có trong MS Word?
+  A.  Basic Shapes
+  B.  Equation Shapes
+  C.  Action Buttons
+  D.  Callouts
+
+Câu 32: Trong MS PowerPoint, để thêm một hiệu ứng động vào một đối tượng đã có hiệu ứng, ta chọn chức năng nào ?
+  A.  Effect Option
+  B.  Animation
+  C.  Add animation
+  D.  Animation painter
+
+Câu 33: Chức năng Photo Album trong MS PowerPoint được dùng để
+  A.  Lưu tập tin trình chiếu dưới dạng danh sách các ảnh để xem
+  B.  Chèn 1 đối tượng hình ảnh vào Slide
+  C.  Tạo một danh sách ảnh để sử dụng cho buổi trình chiếu
+  D.  Đóng gói các slide trình chiếu thành một tập tin ảnh
+
+Câu 34: Chức năng nào vừa có trong Word vừa có trong MS PowerPoint?
+  A.  Action Buttons
+  B.  DropCap
+  C.  Subscript
+  D.  Column
+
+Câu 35: Trong MS PowerPoint, chức năng nào sau đây không có trong Table?
+  A.  Border
+  B.  Merge Cells
+  C.  Split Cells
+  D.  Split Table
+
+Câu 36: Trong MS PowerPoint, chức năng Duration trong hiệu ứng chuyển Slide có ý nghĩa gì?
+  A.  Thời gian chờ để chạy qua Slide khác
+  B.  Thời gian để Slide xuất hiện hoàn chỉnh
+  C.  Thời gian để kết thúc Slide
+  D.  Thời gian chờ để chạy hiệu ứng cho các đối tượng trong slide
+
+Câu 37: Trong MS PowerPoint, phát biểu nào sau đây không đúng?
+  A.  Có thể chèn nhiều hiệu ứng cho một đối tượng
+  B.  Một Slide chỉ có 1 hiệu ứng chuyển Slide duy nhất
+  C.  Hiệu ứng của đối tượng sau khi được chọn sẽ không thể thay đổi
+  D.  Có thể chạy hiệu ứng cho từng chữ trong một câu
+
+Câu 38: Trong MS PowerPoint, Effect Options là chức năng dùng để _____
+  A.  Thểm hiệu ứng động cho đối tượng
+  B.  Thểm hiệu ứng chuyển Slide
+  C.  Thểm liên kết cho đối tượng
+  D.  Thay đổi hướng di chuyển của hiệu ứng
+
+Câu 39: Trong MS PowerPoint, chức năng nào được dùng để tự động chuyển Slide sau một khoảng thời gian
+  A.  Transition - Duration
+  B.  Transition - After
+  C.  Animation - Duration
+  D.  Animation - Delay
+
+Câu 40: Chức năng nào sau đây không có trong MS PowerPoint?
+  A.  SmartArt
+  B.  ClipArt
+  C.  Wrap Text
+  D.  Text Box
+
+Câu 41: Trong MS PowerPoint, khi chèn một đối tượng âm thanh vào Slide, chức năng nào trong thẻ PlayBack được dùng để chạy bài nhạc qua tất cả các Slide?
+  A.  Start - Automatically
+  B.  Srart - On Click
+  C.  Start - Play across slides
+  D.  Loop Until Stopped
+
+Câu 42: Trong MS PowerPoint, để gán một hiệu ứng động vào sự kiện khi bấm chuột lên đối tượng trong slide, ta chọn chức năng _____
+  A.  Effect Option
+  B.  Add animation
+  C.  Trigger
+  D.  Animation painter
+
+Câu 43: Trong MS PowerPoint, chức năng nào dưới đây không cùng nhóm với các chức năng còn lại
+  A.  Header&Footer
+  B.  Slide number
+  C.  Date&Time
+  D.  Equation
+
+Câu 44: Để tạo hiệu ứng cho các đối tượng trên slide trong MS Powerpoint ta sử dụng chức năng
+  A.  Transitions
+  B.  Animations
+  C.  Slide show
+  D.  Design
+
+Câu 45: Trong PowerPoint, các tính năng nào sau đây là không đúng?
+  A.  Có thể chụp ảnh màn hình đang làm việc để chèn vào slide
+  B.  Các thành phần của một đối tượng SmartArt vẫn có thể thể hiện hoạt hình (animation)
+  C.  Có thể dễ dàng chuyển đổi một SmartArt này thành một dạng SmartArt khác
+  D.  Khi chèn một đồ thị (Chart) có thể không cần dùng một bảng Excel để chứa dữ liệu
+
+Câu 46: Trong PowerPoint, khả năng nào sau đây là không đúng?
+  A.  Có thể tập thuyết trình trước dùng chức năng Rehearse Timings
+  B.  Cho phép nén video có trong slide bằng chức năng Compress Pictures
+  C.  Cho phép xuất tập tin thuyết trình thành một video
+  D.  Cho phép xuất tập tin thuyết trình dưới dạng tập tin trình chiếu và không thể thay đổi nội dung với tập tin này
+
+Câu 47: Trong PowerPoint, câu nào sau đây là sai?
+  A.  Có các loại animation quan trọng như Entrance, Exit, Emphasis, Motion Paths
+  B.  Một đối tượng có thể tham gia vào tối đa một animation
+  C.  Có thể thiết lập các thông số như thời gian bắt đầu, sự kiện bắt đầu của một animation cho một đối tượng
+  D.  Có thể thay đổi thứ tự chạy các animation trong một slide
+
+Câu 48: Trong PowerPoint, đâu không phải là cách kích hoạt một hiệu ứng của đối tượng trong slide?
+  A.  On Click
+  B.  After Previous
+  C.  With Previous
+  D.  Duration
+
+Câu 49: Trong PowerPoint, câu nào sau đây là sai?
+  A.  Có nhiều dạng slide transition
+  B.  Một slide chỉ có tối đa một dạng transition
+  C.  Có thể thiết lập các thông số như thời gian bắt đầu, sự kiện bắt đầu của một slide transition cho một slide
+  D.  Không thể sắp xếp thứ tự chạy của các slide transition nếu không đổi thứ tự các slide
+
+Câu 50: Trong PowerPoint, cho 2 đối tượng (ngôi sao và trái tim) trong Slide của PowerPoint như hình bên.Để đưa đối tượng ngôi sao lên trên đối tượng trái tim thì cách thực hiện nào là sai?
+  A.  Chọn đối tượng “Ngôi sao” - Home - Arrange - Bring to Front
+  B.  Chọn đối tượng “Ngôi sao” - Format - Bring Forward - Bring Forward
+  C.  Chọn đối tượng “trái tim” - Home - Arrange - Send to Back
+  D.  Chọn đối tượng “Ngôi sao” - Format - WrapText - Behind Text
+

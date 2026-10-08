@@ -1,0 +1,303 @@
+=== Phần 1: Word Nâng Cao (Câu 51 - 100) ===
+
+Câu 1: Tính năng nào sau đây không đúng là của MS Word?
+  A. Lưu và đọc các tập tin văn bản dạng .doc, .docx
+  B. Lưu và đọc các tập tin dạng .png
+  C. Lưu và đọc các tập tin HTML
+  D. Lưu và đọc các tập tin dạng .txt
+
+Câu 2: Trong MS Word, chức năng Home - Change case ( 
+) dùng để làm gì?
+  A. Thay đổi kích thước chữ
+  B. Thay đổi kiểu (font) chữ
+  C. Thay đổi chữ hoa/chữ thường
+  D. Thay đổi màu sắc chữ
+
+Câu 3: Trong MS Word, chức năng nào được dùng để chèn một đối tượng WordArt vào văn bản?
+  A. Home - WordArt
+  B. Insert - WordArt
+  C. Page Layout - WordArt
+  D. View - WordArt
+
+Câu 4: Trong MS Word, phát biểu nào sau đây là đúng nhất?
+  A. Không thể sử dụng DropCap cho ký tự thứ 2 của đoạn văn
+  B. Không thể gạch chân từng chữ trong Word
+  C. Không thể thay đổi màu sắc trang giấy của Word
+  D. Không thể kẻ khung cho văn bản trong đối tượng Textbox
+
+Câu 5: Trong MS Word, chức năng Hone - Strikethrough dùng để làm gì?
+  A. Gạch chân đoạn văn
+  B. Gạch ngang đoạn văn
+  C. Xóa đoạn văn
+  D. Đánh dấu doạn văn cần xóa
+
+Câu 6: Trong MS Word, công cụ trên thanh thước có chức năng gì?
+  A. Canh lề đoạn văn
+  B. Canh lề trang giấy
+  C. Đánh dấu điểm chuyển giao trên thanh thước
+  D. Đánh dấu vị trí bắt đầu in trên văn bản
+
+Câu 7: Trong MS Word, chức năng nào sau đây dùng để thay đổi khoảng cách giữa các dòng trong một đoạn văn?
+  A. Paragraph - Alignment
+  B. Paragraph - Before
+  C. Paragraph - After
+  D. Paragraph - Line Spacing
+
+Câu 8: Trong MS Word, chức năng nào sau đây được dùng để kẻ khung cho một đoạn văn?
+  A. Home - Bullets
+  B. Home- Border
+  C. Home - Shading
+  D. Home - Underline
+
+Câu 9: Chức năng nào được dùng để định dạng trang văn bản trong MS Word?
+  A. Home - Paragraph
+  B. File - Option
+  C. Page Layout - Page Setup
+  D. Page Layout - Paragraph
+
+Câu 10: Trong MS Word, để kẻ khung cho một đoạn văn bản, ta dùng chức năng nào?
+  A. Page Layout - Page Borders
+  B. Home - Borders and Sharding…
+  C. Insert - Shapes
+  D. Insert - Table
+
+Câu 11: Trong MS Word, câu nào sau đây là sai?
+  A. Viền khung đoạn văn bản và viền khung trang là cùng một tính năng
+  B. Có thể canh lề (trái, phải, giữa) cho từng tab stop
+  C. Có thể dùng bất kỳ hình ảnh nào làm dấu gạch đầu dòng(bullet) miễn là nó có kích thước vừa đủ
+  D. Có thể dùng dropcap cho ký tự đầu rộng đúng 1 dòng.
+
+Câu 12: Trong MS Word, câu nào sau đây là sai?
+  A. Có thể chia một đoạn văn bản thành hơn 100 cột
+  B. Có thể kẻ vạch chia giữa các cột văn bản
+  C. Có thể ngắt giữa chừng một cột (column break)
+  D. Có thể dồn toàn bộ nội dung về một cột sau khi đã chia cột
+
+Câu 13: Phát biểu nào sau đây là sai về đối tượng bảng (table) trong MS Word?
+  A. Có thể tạo bảng với một cột và một hàng
+  B. Có thể tính toán các công thức phức tạp trong bảng
+  C. Có thể lặp lại phần tiêu đề của bảng khi qua trang mới
+  D. Có thể thay đổi độ rộng của một ô (Cell) trong bảng mà không làm ảnh hưởng đến các ô khác trong cùng cột
+
+Câu 14: Trong MS Word, câu nào sau đây sai?
+  A. Có thể chèn văn bản (text) vào hầu hết đối tượng vẽ (shape)
+  B. Có thể chuyển đổi từ đối tượng vẽ này thành đối tượng vẽ khác nhanh chóng
+  C. Có thể nhóm (group) các đối tượng vẽ với nhau
+  D. Có thể chia cột cho văn bản trong đối tượng Shape
+
+Câu 15: Trong MS Word, chức năng Home → Clear All Formatting được sử dụng để?
+  A. Định dạng ký tự
+  B. Loại bỏ toàn bộ định dạng
+  C. Xóa văn bản
+  D. Định dạng văn bản
+
+Câu 16: Trong MS Word, để thay đổi khoảng cách giữa hai đoạn văn bản ta thiết lập tại?
+  A. Ô Before và After trong thẻ Page Layout
+  B. Ô Line Spacing trong thẻ Page Layout
+  C. Ô Left và Right trong thẻ Page Layout
+  D. Ô Above và Below trong thẻ Page Layout
+
+Câu 17: Trong MS Word, để lựa chọn toàn bộ một ô trong bảng, bạn sẽ
+  A. Nhấn đúp chuột vào ô đó
+  B. Nhấn chuột 3 lần vào ô đó
+  C. Nhấn chuột ở vị trí góc trái dưới ô đó
+  D. Nhấn chuột ở bên trên ô đó
+
+Câu 18: Trong MS Word, để đổ màu cho một ô trong bảng ta thực hiện?
+  A. Chọn ô cần đổ màu/Vào Table Tools/ Layout/ Chọn biểu tượng Shading
+  B. Chọn ô cần đổ màu/Vào Home/ Design/ Chọn biểu tượng Shading
+  C. Chọn ô cần đổ màu/Vào Home/ Layout/ Chọn biểu tượng Shading
+  D. Chọn ô cần đổ màu/Vào Table Tools/ Design/ Chọn biểu tượng Shading
+
+Câu 19: Trong MS Word, để thay đổi hướng chữ trong một ô trong bảng ta làm thế nào?
+  A. Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/ Design/ Chọn Text Direction
+  B. Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/ Layout/ Text Direction
+  C. Chọn ô cần thay đổi hướng chữ/Vào Tab Insert/ Design/ Chọn Text Direction
+  D. Chọn ô cần thay đổi hướng chữ/Vào Tab Table Tools/ Layout/ Chọn Text Direction
+
+Câu 20: Trong MS Word, để áp dụng Style cho một đoạn văn bản bất kì ta thực hiện như sau:
+  A. Chọn đoạn văn bản cần áp dụng Style. Vào Tab View/Trong nhóm Styles/ chọn Style muốn áp dụng
+  B. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Review/Trong nhóm Styles/ chọn Style muốn áp dụng
+  C. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Insert/Trong nhóm Styles/ chọn Style muốn áp dụng
+  D. Chọn đoạn văn bản cần áp dụng Style. Vào Tab Home/Trong nhóm Styles/ chọn Style muốn áp dụng
+
+Câu 21: Trong MS Word, để thay đổi định dạng cho Style có sẵn trong Word ta làm thế nào?
+  A. Vào Tab Reference/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify.
+  B. Vào Tab View/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify.
+  C. Vào Tab Format/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify.
+  D. Vào Tab Home/ Trong nhóm Styles/ chuột phải vào Style bạn muốn thay đổi định dạng và chọn Modify.
+
+Câu 22: Trong MS Word, để tạo đường viền cho trang đầu tiên trong văn bản ta thực hiện:
+  A. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn Whole Document
+  B. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section
+  C. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This sectionAll except first page
+  D. Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This sectionFirst Page Only
+
+Câu 23: Trong MS Word, để đánh dấu đề mục ta thực hiện thao tác
+  A. Tab Home/ nhóm Font/ Numbering
+  B. Tab Home/ nhóm Font/ Bullets
+  C. Tab Home/ nhóm Clipboard/ Bullets
+  D. Tab Home/ nhóm Paragraph/ Bullets
+
+Câu 24: Trong MS Word, để đánh số đề mục ta thực hiện thao tác
+  A. Tab Home/ nhóm Font/ Bullets
+  B. Tab Home/ nhóm Font/ Numbering
+  C. Tab Home/ nhóm Clipboard/ Numbering
+  D. Tab Home/ nhóm Paragraph/ Numbering
+
+Câu 25: Trong MS Word, để thay đổi màu sắc đường viền Textbox ta thực hiện?
+  A. Vào Format/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+  B. Vào Insert/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+  C. Vào Home/Chọn Shape Outline/ Chọn màu sắc cần thay đổi
+  D. Vào Format/Chọn Shape Fill/ Chọn màu sắc cần thay đổi
+
+Câu 26: Trong MS Word, để thay đổi độ rộng của một ô trong bảng ta làm thế nào?
+  A. Chọn ô cần thay đổi độ rộng/Vào Table Tools/ Design/ Trong nhóm Cell Size chọn Width
+  B. Chọn ô cần thay đổi độ rộng/Vào Home/ Layout/ Trong nhóm Cell Size chọn Width
+  C. Chọn ô cần thay đổi độ rộng/Vào View/ Layout/ Trong nhóm Cell Size chọn Width
+  D. Chọn ô cần thay đổi độ rộng/ Table Tools/ Layout/ Trong nhóm Cell Size chọn Width
+
+Câu 27: Trong MS Word, khi cần các định dạng nhanh cho một văn bản có liên quan đến Font, Paragraph, Border, …, bạn sử dụng lựa chọn nào?
+  A. AutoCorrect
+  B. AutoText
+  C. Styles
+  D. Select Browse Object
+
+Câu 28: Trong MS Word, câu nào sau đây là sai?
+  A. Có thể chèn hình ảnh vào phần tiêu đề đầu trang và cuối trang (header và footer)
+  B. Có thể định dạng khác nhau cho trang chẵn và lẻ cho phần header và footer
+  C. Có thể đánh số trang cùng một lúc tại nhiều vị trí (đầu trang, cuối trang, bên trái, phải, …)
+  D. Có thể đặt header/footer nằm theo chiều dọc văn bản
+
+Câu 29: Trong MS Word, để thêm chú thích (Footnote) ta thực hiện:
+  A. Vào References/ Chọn Insert Footnote
+  B. Vào Page Layout/ Chọn Insert Footnote
+  C. Vào Review/ Chọn Insert Footnote
+  D. Vào Insert/ Chọn Insert Footnote
+
+Câu 30: Khi cần đặt lề trang chẵn trang lẻ khác nhau trong Word, bạn sử dụng lựa chọn nào?
+  A. Design - chọn Different Odd & Event Pages
+  B. Page Layout-Page Setup-thẻ Margins - chọn Mirror Margin
+  C. View - chọn Different Odd & Event Pages
+  D. Page Layout-Page Setup-thẻ Margins - chọn Normal
+
+Câu 31: Muốn tạo liên kết đến 1 tài liệu Word có trên máy tính, tại mục Link to, bạn sử dụng lựa chọn nào?
+  A. Existing File or Web Page
+  B. Place in this Document
+  C. Create New Document
+  D. E-mail Address
+
+Câu 32: Tại vị trí đầu trang (Header) trong Word, muốn di chuyển đến vị trí cuối trang (Footer), bạn sử dụng lựa chọn nào?
+  A. Nút Next
+  B. Nút Insert Footer
+  C. Nút Go to Footer
+  D. Nút Edit Header
+
+Câu 33: Trong MS Word, các công cụ liên quan đến việc định dạng văn bản như: chèn chân trang (Footnote), tạo mục lục tự động, … nằm ở thanh thực đơn nào?
+  A. Home
+  B. Page Layout
+  C. References
+  D. Developer
+
+Câu 34: Trong MS Word, khi cần cập nhật lại mục lục tự động (Table of Content), bạn sử dụng lựa chọn nào?
+  A. Insert-Entire Table
+  B. References-Update Table
+  C. References-Update - Update Table
+  D. Click trái tại phần mục lục - Update Field
+
+Câu 35: Trong MS Word, muốn tạo mục lục tự động (Table of Content), bạn sử dụng lựa chọn nào sau đây:
+  A. References-Table of Content-Insert Table of Content
+  B. References-Update Table
+  C. Review-Table of Content-Insert Table of Content
+  D. Review-Update Table
+
+Câu 36: Trong MS Word, tiện ích trộn thư có thể sử dụng được trong trường hợp nào sau đây?
+  A. Cần sắp xếp các văn bản đang có theo một thứ tự nào đó: chẳng hạn, sắp xếp danh sách học viên
+  B. Muốn trộn các thông tin có sẵn và gửi qua thư điện tử: chẳng hạn, ghép danh sách học viên từ 2 lớp lại và gửi danh sách này qua thư điện tử.
+  C. Muốn tạo ra ra giấy mời, giấy báo, thư từ có cùng một nội dung nhưng gửi cho nhiều người khác nhau, ở các địa chỉ khác nhau.
+  D. Cần thực hiện với các dữ liệu có trong bảng và cần tính toán.
+
+Câu 37: Trong MS Word, thực đơn Mailings có chức năng gì?
+  A. Chứa các lệnh liên quan các chế độ xem màn hình văn bản
+  B. Dùng cho thiết kế và mở rộng
+  C. Gồm các chức năng liên quan đến việc trộn thư
+  D. Các ứng dụng hỗ trợ
+
+Câu 38: Trong MS Word, quá trình phối thư (Mail Merge), muốn lọc dữ liệu theo 1 tiêu chí nào đó, bạn sử dụng lựa chọn nào?
+  A. Mailings ─ nhóm Start Mail Merge ─ Select Recipients ─ Filter…
+  B. Mailings ─ nhóm Start Mail Merge ─ Edit Recipient List ─ Filter…
+  C. Mailings ─ nhóm Start Mail Merge ─ Start Mail Merge ─ Filter…
+  D. Mailings ─ nhóm Start Mail Merge ─ Edit Recipient List ─ Sort…
+
+Câu 39: Trong MS Word, trong thao tác phối thư (Mail Merge), mục Edit Recipient List theo bạn có công dụng gì?
+  A. Chèn thông tin người nhận
+  B. Chọn tệp chứa danh sách người nhận
+  C. Thiết lập điều kiện lọc danh sách người nhận
+  D. Thiết lập điều kiện lọc hoặc sắp xếp danh sách người nhận
+
+Câu 40: Trong MS Word, trong thao tác phối thư (MailMerge), để chèn thêm chuỗi khi thỏa một điều kiện nào đó, bạn sử dụng lựa chọn nào?
+  A. Rules-Next Record
+  B. Rules-Next Record If
+  C. Rules-Skip Record If
+  D. Rules-If … Then … Else …
+
+Câu 41: Trong MS Word, thao tác trộn thư (MailMerge), để chỉ in ra những dòng có vị trí lẻ trong danh sách, bạn sử dụng lựa chọn nào?
+  A. Rules - Next Record
+  B. Rules -Next Record If
+  C. Rules -Skip Record If
+  D. Rules -If … Then … Else …
+
+Câu 42: Trong MS Word, để đính kèm văn bản vào Email ta thực hiện:
+  A. Vào File/Save & Send/ Send Using E_mail
+  B. Vào Home/Save & Send/ Send Using E_mail
+  C. Vào Insert/Save & Send/ Send Using E_mail
+  D. Vào View/Save & Send/ Send Using E_mail
+
+Câu 43: Trong Word, sau khi so sánh 2 văn bản trong file kết quả so sánh, để chấp nhận tất cả các khác biệt, bạn sử dụng lựa chọn nào?
+  A. Chọn điểm khác biệt-chọn Review-ChangesAccept
+  B. Chọn View-Changes-Accept all Changes inDocument
+  C. Chọn Review-Changes-Accept all Changes in Document
+  D. Chọn Review-Changes-Reject all Changes in Document
+
+Câu 44: Trong MS Word, để bảo vệ văn bản ở mức độ cho phép thay đổi nội dung nhưng để lại dấu vết, sau khi chọn Review, chọn Restric Editing, tại mục Editing restrictions, bạn sử dụng lựa chọn nào?
+  A. No changes
+  B. Comment
+  C. Tracked Changes
+  D. Filling in forms
+
+Câu 45: Có bao nhiêu kiểu margin(lề) trong một trang là Microsoft Word?
+  A. Hai margin: header và footer
+  B. Bốn margin: top, bottom, left, right
+  C. Hai margin: landscape(ngang) và Portrait (đứng)
+  D. Hai margin: top và bottom
+
+Câu 46: Trong Microsoft Word, để ngắt trang ta thực hiện _____
+  A. Thẻ View - Page Break
+  B. Thẻ References - Captions – Break
+  C. Thẻ Review - Create - Page Break
+  D. Thẻ Insert - Pages - Page Break
+
+Câu 47: Trong Microsoft Word, có các chế độ in ấn nào?
+  A. In toàn bộ văn bản hoặc các trang chẵn lẻ riêng biệt
+  B. Không in các trang được chỉ định
+  C. Có thể in hai mặt trên bất kỳ máy in nào một cách tự động
+  D. Chỉ in phần Header/Footer
+
+Câu 48: Để xem danh sách các tài liệu đang đợi để in, ta làm thế nào?
+  A. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar
+  B. Kích phải chuột vào biểu tượng máy in ở thanh taskbar
+  C. Kích chuột trái vào biểu tượng máy in ở thanh taskbar
+  D. Kích đúp chuột vào biểu tượng máy in ở thanh taskbar/Chọn máy in muốn xem.
+
+Câu 49: Trong MS Word, muốn in phần văn bản đang chọn, sau khi chọn FilePrint, trong vùng Page range, bạn sử dụng lựa chọn nào sau đây:
+  A. Selection
+  B. All
+  C. Current page
+  D. Pages
+
+Câu 50: Trong MS Word, để tạo một phân đoạn (section) đồng thời qua trang mới, sau khi chọn Page Layout, bạn sử dụng lựa chọn nào?
+  A. Breaks-Page Breaks - chọn Page
+  B. Breaks - Section Breaks - chọn Next Page
+  C. Breaks – Page Breaks – chon Text Wrapping
+  D. Breaks – Section Braks – Even Page
+

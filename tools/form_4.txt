@@ -1,0 +1,303 @@
+=== Phần 2: Excel Nâng Cao (Câu 51 - 100) ===
+
+Câu 1: Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi "Office"; ô B2 có giá trị số 2010. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả:
+  A. Office
+  B. #VALUE!
+  C. 2010
+  D. Office2010
+
+Câu 2: Trong Excel, để tìm các số thỏa điều kiện =5 và =10, ta dùng :
+  A. Hàm IF và hàm AND
+  B. Hàm IF và hàm OR
+  C. Hàm IF và hàm NOT
+  D. Hàm IF và ký tự &
+
+Câu 3: Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/10. Nếu sao chép công thức đến ô F6 thì sẽ có công thức là:
+  A. C6*D6/10
+  B. B6*C6/10
+  C. E6*F6/10
+  D. D6*E6/10
+
+Câu 4: Trong MS Excel, công thức nào dưới đây là đúng:
+  A. =SUM(C1..C5)
+  B. =SUM(C1):SUM(C5)
+  C. =SUM(C1-C5)
+  D. =SUM(C1:C5)
+
+Câu 5: Trong MS Excel, các hàm MID, LEFT, RIGHT được dùng để làm gì?
+  A. Nối chuỗi
+  B. Chuyển 1 phần của chuỗi thành số
+  C. Cắt chuỗi
+  D. Viết hoa các ký tự trong chuỗi
+
+Câu 6: Trong MS Excel, hàm AND là một hàm logic Hàm cho giá trị đúng (true) khi?
+  A. Có ít nhất hai biểu thức điều kiện của hàm có giá trị đúng
+  B. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị đúng
+  C. Chỉ cần một biểu thức điều kiện nào đó của hàm có giá trị đúng
+  D. Tất cả các biểu thức điều kiện của hàm đều phải có giá trị sai
+
+Câu 7: Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả:
+  A. 10
+  B. 3
+  C. #VALUE!
+  D. 1
+
+Câu 8: Trong MS Excel, những công thức nào sau đây cho kết quả là giá trị TRUE
+  A. =OR(3+2=6;53^2)
+  B. =IF(65;FALSE;TRUE)
+  C. =AND(MOD(4;2)=0;5=3)
+  D. IF(AND(TRUE, FALSE))
+
+Câu 9: Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 thì sẽ có công thức
+  A. E7*F7/100
+  B. E6*F6/100
+  C. E2*F2/100
+  D. B6*C6/100
+
+Câu 10: Trong bảng tính Excel, tại ô A2 có sẵn giá trị 2017 kiểu chuỗi. Tại ô B2 ta nhập công thức =VALUE(A2)  & 2 thì nhận được kết quả
+  A. Giá trị 2019 kiểu số
+  B. Giá trị 2019 kiểu chuỗi
+  C. Giá trị 20172 kiểu số
+  D. Giá trị 20172 kiểu chuỗi
+
+Câu 11: Trong bảng tính Excel, kết quả của công thức =INT(-4.5) là
+  A. 2
+  B. -4
+  C. -5
+  D. 4.5
+
+Câu 12: Trong bảng tính Excel, để mở một tập tin đã có, ta sử dụng tổ hợp phím
+  A. Ctrl+F
+  B. Alt+O
+  C. Ctrl+O
+  D. Alt+F
+
+Câu 13: Trong bảng tính Excel, tại ô A2 gõ công thức =IF(3>50,100,IF(5<6,200,300)) thì kết quả nhận được là _______
+  A. 200
+  B. FALSE
+  C. 100
+  D. 300
+
+Câu 14: Trong Excel, khi sao chép ô C5 đang chứa công thức =$A$3+$B$7 đến ô F9, công thức trong ô F9 sẽ là ________.
+  A. =$D$7+$E$11
+  B. =$A$3+$B$7
+  C. =$A$7+$E$7
+  D. =$D$3+$E$7
+
+Câu 15: Trong Excel, kết quả hiển thị trong ô có chứa công thức =3^2 &”đồng” sẽ là_____.
+  A. 3^2 đồng
+  B. #VALUE!
+  C. 9 đồng
+  D. 6 đồng
+
+Câu 16: Trong Excel, thông báo #DIV/0! có nghĩa là gì?
+  A. không tính được kết quả
+  B. dữ liệu không đúng theo yêu cầu của công thức
+  C. chia cho giá trị 0
+  D. không có dữ liệu để tính toán
+
+Câu 17: Trong Excel, kết quả nào sau đây là sai?
+  A. =LEFT(“511X01234”,3) +1 là 512
+  B. =MID(“511X01234”,4,1)&“Y” là “XY”
+  C. =MID(“511X01234”,1,2) – RIGHT(“511X01234”,1) là “51-4”
+  D. =MAX(“511X01234”) là #VALUE!
+
+Câu 18: Cho biết các hàm HLOOKUP, VLOOKUP, INDEX có điểm chung là gì?
+  A. Được dùng để so sánh các giá trị trong 2 bảng
+  B. Chỉ HLOOKUP và VLOOKUP là có điểm chung
+  C. Công thức đều có 4 tham số truyền vào
+  D. Được dùng để tra cứu giá trị trong bảng
+
+Câu 19: Trong Excel, kết quả #REF! là gì?
+  A. Là lỗi chia cho số 0
+  B. Là Excel không hiểu các tên tham khảo đến
+  C. Là tham khảo đến vùng không hợp lệ
+  D. Là công thức đưa vào bị lỗi
+
+Câu 20: Trong Excel, công thức nào sau đây trả về thứ trong tuần bằng tiếng Việt?
+  A. =“Thứ ”&WEEKDAY(NOW())
+  B. =“Thứ ”&WEEKDAY(TODAY())
+  C. =IF(WEEKDAY(NOW())>1, “Thứ ”&WEEKDAY(NOW()), “Chủ nhật”)
+  D. =”Thứ”&EOMONTH(WEEKDAY(TODAY())
+
+Câu 21: Cho một workbook Excel có chứa vùng dữ liệu từ A2:D16, trong đó cột A chứa tên các mặt hàng, cột D chứa giá trị mặt hàng, để tính tổng các giá trị của các mặt hàng “Sắt”, 
+công thức nào sau đây là đúng?
+  A. =SUMIF(“Sắt”, A2:D16, A2:D16)
+  B. =SUMIF(A2:D16, “Sắt”, D2:D16)
+  C. =SUMIF(“Sắt”, A2:D16, D2:D16)
+  D. =SUMIF(A2:D16, “Sắt”, A2:D16)
+
+Câu 22: Cho một workbook Excel có chứa vùng dữ liệu từ A2:D16, trong đó cột A chứa tên các mặt hàng, cột D chứa giá trị mặt hàng, để đếm số lần xuất hiện các mặt hàng “Sắt”, công thức nào sau đây là đúng?
+  A. =COUNTIF(“Sắt”, A2:D16)
+  B. =COUNTIF(“Sắt”, A2:A16)
+  C. =COUNTIF(“Sắt”, D2:D16)
+  D. =COUNTIF(A2:A16, “Sắt”)
+
+Câu 23: Trong Excel, hàm COUNTBLANK trả về kết quả là 0 khi nào?
+  A. Không có ô số trong vùng tham chiếu
+  B. Tất cả các ô trong vùng tham chiếu không có giá trị
+  C. Không có ô trống trong vùng tham chiếu
+  D. Không có ô chuỗi trong vùng tham chiếu
+
+Câu 24: Trong Excel, hàm CEILING có nghĩa là gì?
+  A. Làm tròn lên đến bội số gần nhất
+  B. Làm tròn xuống đến bội số gần nhất
+  C. Làm tròn đến số chẵn gần nhất
+  D. Làm tròn đến số lẻ gần nhất
+
+Câu 25: Cho một workbook Excel có chứa vùng dữ liệu từ A2:D16, trong đó cột A chứa tên các mặt hàng, cột D chứa giá trị thành tiền, để tính thành tiền các mặt hàng “Computer”, công thức nào sau đây là đúng?
+  A. =SUMIF(A2:A16, “Computer”, D2:D16)
+  B. =SUMIF(D2:D16, “Computer”, A2:A16)
+  C. =SUMIF(“Computer”, D2:D16)
+  D. =SUMIF(A2:A16, “Computer”)
+
+Câu 26: Trong một workbook Excel, ô A2 có giá trị chuỗi như sau “ Trung tâm Kỹ thuật Điện toán “ . Hãy chọn câu sai?
+  A. =Trim(A2) là cắt tất cả khoản trắng giá trị chuỗi trong ô A2
+  B. = Find(“ “, A2) là tìm vị trí khoản trắng của chuỗi trong ô A2
+  C. =Trim(A2) bằng “Trung tâm Kỹ thuật Điện toán”
+  D. =Find(“ “, A2) bằng 1
+
+Câu 27: Trong Excel, hàm FLOOR có nghĩa là gì?
+  A. Làm tròn lên đến bội số gần nhất
+  B. Làm tròn đến số chẵn gần nhất
+  C. Làm tròn xuống đến bội số gần nhất
+  D. Làm tròn đến số lẻ gần nhất
+
+Câu 28: Trong Excel, hàm EVEN có nghĩa là gì?
+  A. Làm tròn xuống đến bội số gần nhất
+  B. Làm tròn lên đến bội số gần nhất
+  C. Làm tròn đến số nguyên chẵn gần nhất
+  D. Làm tròn đến số nguyên lẻ gần nhất
+
+Câu 29: Trong Excel, hàm ODD có nghĩa là gì?
+  A. Làm tròn đến số nguyên lẻ gần nhất
+  B. Làm tròn đến số nguyên chẵn gần nhất
+  C. Làm tròn lên đến bội số gần nhất
+  D. Làm tròn xuống đến bội số gần nhất
+
+Câu 30: Hãy cho biết hàm dò tìm là hàm nào?
+  A. Vlookup
+  B. Product
+  C. Sumif
+  D. Counta
+
+Câu 31: Range_lookup trong hàm HLOOKUP có giá trị mặc định bằng?
+  A. 1
+  B. 0
+  C. -1
+  D. FALSE
+
+Câu 32: Cấu trúc của hàm HLOOKUP?
+  A. =hlookup(lookup_value, table_array, row_index_num, [range_lookup])
+  B. =hlookup(lookup_value, row_index_num, table_array, [range_lookup])
+  C. =hlookup(table_array, lookup_value, row_index_num, [range_lookup])
+  D. =hlookup([range_lookup], lookup_value, table_array, row_index_num )
+
+Câu 33: Tính lương tại ô K6 = mức lương cơ bản * hệ số lương , làm tròn đơn vị nghìn
+  A. =ROUND(J6*$K$11;-3)
+  B. =J6*$k11
+  C. =MOD(J6*K$11;3)
+  D. =ROUND(J6*K11;0)
+
+Câu 34: Để định dạng được màu khác nhau đối với nội dung ô, nền của ô ta chọn công cụ nào sau đây:
+  A. Conditional Formatting
+  B. Format as Table
+  C. Cell Style
+  D. Format Cell
+
+Câu 35: Trong Microsoft Excel, khi vẽ biểu đồ bằng công cụ Chart Wizard, thẻ Data Range cho phép làm gì?
+  A. Thay đổi vùng dữ liệu vẽ biểu đồ
+  B. Gán nhãn cho vùng dữ liệu
+  C. Xóa dữ liệu
+  D. Thêm 1 vùng dữ liệu
+
+Câu 36: Muốn tính tổng của vùng E2:E8 với điều kiện là "Máy tính" trong vùng dữ liệu A2:A8, ta có công thức:
+  A. =SUMIF(A2:A8,"Máy tính")
+  B. =SUMIF(A2:A8,E2:E8,"Máy tính")
+  C. =SUMIF("Máy tính",A2:A8,E2:E8)
+  D. =SUMIF(A2:A8,"Máy tính",E2:E8)
+
+Câu 37: Biết vùng dữ liệu từ B2:B10 chứa Tên chức vụ, muốn xem có bao nhiêu Nhân viên trong vùng dữ liệu ta thực hiện công thức:
+  A. =Countif(B2:B10,Nhân viên)
+  B. =Countif(B2:B10,'Nhân viên')
+  C. =Countif(B2:B10,"'Nhân viên'")
+  D. =Countif(B2:B10,"Nhân viên")
+
+Câu 38: Cú pháp hàm Sumif là?
+  A. =SUMIF(criteria,range,[sum_range])
+  B. =SUMIF(criteria,[sum_range],range)
+  C. Không đáp án nào đúng
+  D. =SUMIF(range,criteria,[sum_range])
+
+Câu 39: Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là bao nhiêu?
+  A. 13
+  B. 15
+  C. 19
+  D. 17
+
+Câu 40: Trong Excel biểu thức =MID("A123B",3,2) sẽ trả về kết quả là bao nhiêu?
+  A. A1
+  B. 3B
+  C. A123B
+  D. 23
+
+Câu 41: Kết quả của công thức SUM(13,7,-10)+AVERAGE(12,0,3) là?
+  A. 20
+  B. 10
+  C. 16
+  D. 15
+
+Câu 42: Cú pháp hàm IF là?
+  A. IF(BT logic, Giátrị sai, Giá trị đúng)
+  B. IF(BT logic, Giá trị đúng)
+  C. IF(Giá trị đúng, BT logic, Giá trị sai)
+  D. IF(BT logic, Giá trị đúng, Giá trị sai)
+
+Câu 43: Nhóm hàm logic gồm có:
+  A. Date, And, Or Hlookup
+  B. Not, And, Or, Vlookup
+  C. Date, If, And, Or
+  D. IF, Not, And, Or
+
+Câu 44: Trong MS Excel, công thức sau trả về giá trị nào: = IF(5 >= 5, "Không được tuyển dụng")
+  A. Công thức sai vì trong Excel không có phép toán =>
+  B. True
+  C. Công thức sai vì thiếu đối số trong hàm IF
+  D. Không được tuyển dụng
+
+Câu 45: Biểu thức sau cho kết quả là bao nhiêu nếu trong ô B2 là 10 và dữ liệu trong D2 là D: = IF(OR(B2>=8,D2="A"),1000,300)
+  A. 300
+  B. 1300
+  C. FALSE
+  D. 1000
+
+Câu 46: Trong bảng tính Excel, chức năng Data bars trong Conditional Formatting dùng để làm gì?
+  A. Hiển thị dữ liệu với màu sắc khác nhau
+  B. Chèn 1 biểu đồ dạng thanh ngang trong bảng tính
+  C. Chèn 1 biểu đồ dạng thanh ngang trong ô
+  D. Hiển thị dữ liệu dạng thanh ngang ngay tại cột
+
+Câu 47: Nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt, ngược lại nếu dưới 5 điểm, thì xếp loại Không đạt. Công thức nào dưới đâythể hiện đúng điều này (Giả sử ô G6 đang chứa điểm thi)
+  A. =IF(G6>=5,"Đạt") ELSE ("Không đạt")
+  B. =IF(G6=<5,"Đạt", "Không đạt")
+  C. REF!
+  D. =IF(G6<5,"Không đạt","Đạt")
+
+Câu 48: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9 và HK loại C trong đó DTB: Điểm trung bình. HK: Hạnh kiểm =If(AND(DTB>=8, HK= "A"),300,1000)
+  A. 300
+  B. TRUE
+  C. FALSE
+  D. 1000
+
+Câu 49: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 6 =If(DTB>=5, Dau, Truot)
+  A. Dau
+  B. Truot
+  C. #VALUE!
+  D. #Name?
+
+Câu 50: Biểu thức sau cho kết quả là bao nhiêu nếu DTB = 9? =If(DTB>=5,"TB",If(DTB>=6.5, "Kha",If(DTB>= 8, "Gioi", "Yeu")))
+  A. Gioi
+  B. Kha
+  C. Yeu
+  D. TB
+

@@ -1,0 +1,302 @@
+=== Phần 3: PowerPoint Nâng Cao (Câu 51 - 100) ===
+
+Câu 1: Trong PowerPoint, các hiệu ứng cho 2 đối tượng trong một Slide được mô tả nhưhình bên dưới. Cho biết đối tượng sẽ chạy thế nào khi bắt đầu trình chiếu Slide?
+  A.  Đối tượng “5-Point Star 4” sẽ tự động xuất hiện khi bắt đầu trình chiếu Slide,sau đó đối tượng “Heart 5” tự động biến mất khi đối tượng “5-Point Star 4” xuất hiện xong
+  B.  Đối tượng “5-Point Star 4” sẽ tự động xuất hiện và đối tượng “Heart 5” tự động biến mất cùng lúc khi bắt đầu Slide
+  C.  Đối tượng “5-Point Star 4” sẽ xuất hiện khi Click vào đối tượng “Heart 5”, sau đó đối tượng “Heart 5” tự động biến mất sau khi đối tượng “5-Point Star 4” xuất hiện xong
+  D.  Đối tượng “5-Point Star 4” sẽ tự động xuất hiện và đối tượng “Heart 5” tự động biến mất cùng lúc khi click vào đối tượng “Heart 5”
+
+Câu 2: Trong PowerPoint, các hiệu ứng cho đối tượng trên Slide được mô tả như hình bên dưới, phát biểu nào sau đây là sai ?
+  A.  Hiệu ứng xuất hiện của đối tượng sẽ chạy khi bấm chuột 1 lần
+  B.  Hiệu ứng biến mất của đối tượng sẽ tự chạy sau khi hiệu ứng xuất hiện chạy xong
+  C.  Hiệu ứng biến mất phải chờ 0,5 giây mới được chạy
+  D.  Hiệu ứng xuất hiện sẽ luôn được chạy trước, sau đó mới đến hiệu ứng biến mất
+
+Câu 3: Bên dưới là hình mô tả các hiệu ứng chuyển động trong PowerPoint. Cho biết tại sao các hiệu ứng đều bị ẩn?
+  A.  Chưa chọn đối tượng để chèn hiệu ứng
+  B.  Chưa cài đặt các hiệu ứng
+  C.  Các hiệu ứng đã bị khóa
+  D.  Các hiệu ứng này chỉ thích hợp với phiên bản cũ
+
+Câu 4: Công cụ Animation pane trong Microsoft PowerPoint dùng để làm gì ?
+  A.  Hiển thị các đối tượng hình ảnh
+  B.  Hiển thị các hiệu ứng chuyển slide
+  C.  Hiển thị các hiệu ứng của đối tượng trong slide
+  D.  Hiển thị các siêu liên kết
+
+Câu 5: Trong PowerPoint, hiệu ứng cho một đối tượng như hình như bên dưới. Phát biểu nào sau đây không đúng?
+  A.  Đối tượng sẽ chạy sau 0.75 giây sau khi được kích hoạt
+  B.  Đối tượng tự động chạy sau 0.75 giây
+  C.  Đối tượng chạy trong 2 giây sẽ kết thúc hiệu ứng
+  D.  Khi bấm chuột, đối tượng sẽ chờ trong 0.75 giây trước khi chạy
+
+Câu 6: Cho hình sau trong PowerPoint. Chức năng nào cho phép thay đổi hướng của hiệu ứng?
+  A.  Preview
+  B.  Effect Options
+  C.  Add Animation
+  D.  Reorder Animation
+
+Câu 7: Trong Power Point, khi cần chỉnh sửa độ sáng (brightness) của hình ảnh đang chọn, bạn sử dụng lựa chọn nào trong Picture Tools?
+  A.  Color
+  B.  Change picture
+  C.  Artistic Effects
+  D.  Corrections
+
+Câu 8: Trong PowerPoint, để hiệu ứng cho một đối tượng tự động chạy sau 2 giây, thao tác nào sau đây là đúng?
+  A.  Chọn Animation Timing là: “On Click”, và Delay là 2 giây
+  B.  Chọn Animation Timing là: “After Previous”, và Duration là 2 giây
+  C.  Chọn Animation Timing là: “With Previous”, và Delay là 2 giây
+  D.  Chọn Transition – After là 2 giây
+
+Câu 9: Lệnh Insert - Shapes - Action Buttons dùng để làm gì?
+  A.  Chèn nút hành động
+  B.  Vẽ hình
+  C.  Chèn đồ thị
+  D.  Tạo liên kết trong bài thuyết trình
+
+Câu 10: Khi tạo một sơ đồ (SmartArt) trong PowerPoint, để thêm một nhánh con, bạn sử dụng lựa chọn nào?
+  A.  Layout - Add Shape
+  B.  Design - Add Shape
+  C.  Forrmat - Add Shape
+  D.  Design - Shape
+
+Câu 11: Khi tạo hiệu ứng chuyển trang cho Slide, muốn hiệu ứng này áp dụng cho tất cả các Slide trong bài trình diễn, bạn sử dụng lựa chọn nào?
+  A.  Apply to All Slide
+  B.  Apply to All Transition
+  C.  Apply to All Animations
+  D.  Apply to All
+
+Câu 12: Trong PowerPoint, hai loại tập tin hiệu ứng âm thanh có thể được thêm vào Slide là gì?
+  A.  .wav và .mid
+  B.  .wav và .gif
+  C.  .wav và .jpg
+  D. Tùy chọn 4
+
+Câu 13: Trong PowerPoint, lệnh Arrange - Align trong Drawing Tools có ý nghĩa gì?
+  A.  Chuyển đối tượng đồ họa đang chọn lên phía trên các đối tượng đồ họa khác
+  B.  Chuyển đối tượng đồ họa đang chọn lên phía dưới các đối tượng đồ họa khác
+  C.  Xoay đối tượng đồ họa đang chọn
+  D.  Canh lề các đối tượng đồ họa đang chọn
+
+Câu 14: Để thay đổi kiểu biểu đồ, bạn sử dụng lựa chọn nào?
+  A.  Chọn biểu đồ - Chart Tools - Change Chart Type
+  B.  Chuột phải vào biểu đồ - chọn Change Chart Type
+  C.  Chọn biểu đồ - Chart Tools - Change Chart Type hoặc Chuột phải vào biểu đồ - chọn Change Chart Type
+  D.  Chọn Insert – Change Chart Type
+
+Câu 15: Trong PowerPoint, khi lưu với phần mở rộng là PPSX có nghĩa là
+  A.  Đây là định dạng mặc định của PowerPoint, tập tin sau khi lưu có thể xem và chỉnh sửa
+  B.  Tập tin khi lưu xong chỉ có thể xem và thao tác như khi trình chiếu
+  C.  Tập tin khi lưu xong chỉ có thể xem dưới dạng phim và không thể thao tác
+  D.  PowerPoint không hỗ trợ lưu định dạng này
+
+Câu 16: Chức năng nào được dùng để đóng gói bài thuyết trình trong Power Point?
+  A.  Save
+  B.  Save As
+  C.  Print
+  D.  Export
+
+Câu 17: Trong bộ công cụ Microsoft Office, khi nào dùng lệnh Save As trong menu File thay cho lệnh Save?
+  A.  Để lưu một tài liệu dưới một tên khác hoặc tại vị trí khác.
+  B.  Để gửi tài liệu cho ai đó qua thư điện tử.
+  C.  Để thay đổi tần số thực hiện chức năng phục hồi tự động (AutoRecovery) .
+  D.  Để chỉ định Word luôn luôn tạo bản sao dự phòng cho tài liệu.
+
+Câu 18: Hành động double click vào tập tin mẫu (*.potx) trong PowerPoint có ý nghĩa gì?
+  A.  Mở tập tin mẫu để chỉnh sửa
+  B.  Trình chiếu tập tin mẫu
+  C.  Tạo tập tin mới từ tập tin mẫu
+  D.  Mở tập tin mẫu để tạo mẫu mớ
+
+Câu 19: Trong PowerPoint, không hỗ trợ loại bảo mật nào?
+  A.  Mật khẩu khi mở tập tin
+  B.  Mật khẩu khi chỉnh sửa
+  C.  Mật khẩu khi trình chiếu
+  D.  Ngăn cấm/cho phép người dùng nào có thể tương tác với tập tin
+
+Câu 20: Để mở chương trình PowerPoint, cách nào sau đây không thực hiện được?
+  A.  Kích đúp chuột trái vào biểu tượng PowerPoint trên màn hình desktop
+  B.  Kích chuột phải vào biểu tượng PowerPoint trên màn hình desktop/Open
+  C.  Không thể mở trực tiếp chương trình mà phải thông qua 1 tập tin power point co sẵn
+  D.  Start/All Programs/Microsoft Office/Powerpoint
+
+Câu 21: Trong PowerPoint, cách nào để mở 1 bản trình bày (Presentation) có sẵn trong máy tính?
+  A.  File/Close
+  B.  File/Edit
+  C.  File/Open
+  D.  File/Save
+
+Câu 22: Trong PowerPoint, thao tác File/Open dùng để làm gì?
+  A.  Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính
+  B.  Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính
+  C.  Mở 1 bản trình bày (Presentation) có sẵn trong máy tính
+  D.  Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính
+
+Câu 23: Trong PowerPoint, để thoát file hiện hành, ta làm thế nào?
+  A.  File/Save
+  B.  File/Open
+  C.  File/Exit
+  D.  File/Edit
+
+Câu 24: Trong PowerPoint, thao tác File/Close dùng để làm gì?
+  A.  Lưu file hiện tại
+  B.  Xóa file hiện tại
+  C.  Đóng file hiện tại
+  D.  Sao chép file hiện tại
+
+Câu 25: Trong PowerPoint, có 3 file đang mở, thao tác chọn File/Close dùng để làm gì?
+  A.  Thoát khỏi Powerpoint
+  B.  Đóng Slide hiện tại
+  C.  Đóng file hiện tại
+  D.  Tắt máy tính
+
+Câu 26: Trong PowerPoint, để chuyển tập tin trình diễn sang dạng video?
+  A.  File / Save As/ Save As Type/ PowerPoint Presentation
+  B.  File / Save As/ Save As Type/ PDF
+  C.  File / Save As/ Save As Type/ Windows Media Video
+  D.  File / Save As/ Save As Type/ Word
+
+Câu 27: Trong PowerPoint, để đặt mật khẩu cho file hiện tại?
+  A.  Vào File/Save / Protect Presentation / Encrypt with Password.
+  B.  Vào Home / Info / Protect Presentation / Encrypt with Password.
+  C.  Vào File/ Info/ Protect Presentation/ Encrypt with Password.
+  D.  Vào Home / Save / Protect Presentation / Encrypt with Password.
+
+Câu 28: Trong PowerPoint, chọn phát biểu đúng?
+  A.  Không cho phép lưu các Slide thành tập tin định dạng hình ảnh JPG
+  B.  Tổ hợp CTRL + O dùng để tạo thêm 1 trang Slide mới
+  C.  Cho phép lưu các Slide thành tập tin định dạng văn bản điện tử PDF
+  D.  Lệnh Rehearse Timings dùng để xóa 1 Slide
+
+Câu 29: Trong PowerPoint, thao tác File / Option / Save / Default file location dùng để làm gì?
+  A.  Thiết lập các thông số cho các trang in
+  B.  Thiết lập thông số cho toàn bộ Slide
+  C.  Thiết lập thư mục lưu trữ mặc định
+  D.  Thiết lập theme cho toàn bộ Slide
+
+Câu 30: Cho biết công dụng của lệnh File Save & Send - Package Presentation for CD … trong PowerPoint?
+  A.  Đây là chức năng đóng gói cho bài trình chiếu
+  B.  Cho phép thực hiện trình chiếu tập tin PowerPoint ngay cả khi máy không cài đặt ứng dụng PowerPoint
+  C.  Hạn chế việc mất liên kết đến các tập tin video, âm thanh...
+  D.  Đây là chức năng đóng gói cho bài trình chiếu + Cho phép thực hiện trình chiếu tập tin PowerPoint ngay cả khi máy không cài đặt ứng dụng PowerPoint + Hạn chế việc mất liên kết đến các tập tin video, âm thanh
+
+Câu 31: Hành động double click vào tập tin mẫu (*.potx) trong PowerPoint có ý nghĩa gì?
+  A.  Mở tập tin mẫu đó cho phép chỉnh sửa
+  B.  Mở tập tin cho tạo mẫu mới
+  C.  Tạo tập tin mới từ tập tin mẫu
+  D.  Trình chiếu tập tin mẫu
+
+Câu 32: Trong PowerPoint, có thể xuất bài trình chiếu qua?
+  A.  Microsoft Word
+  B.  PDF
+  C.  Video
+  D.  Word, PDF, Video
+
+Câu 33: Trong PowerPoint, để đưa nội dung tập tin văn bản đã có vào bài trình chiếu, bạn sử dụng lựa chọn nào?
+  A.  Home - New Slide - chọn Slides from Outline.
+  B.  Design - chọn Browse for Themes…
+  C.  Browse for Themes
+  D.  Design – Insert – Office
+
+Câu 34: Để lưu các trang chiếu thành kiểu jpeg bạn sử dụng lựa chọn nào?
+  A.  Vào  File,  chọn  Save  As,  chọn  Graphics Interchange Format
+  B.  Vào File, chọn Save As, chọn JPEG File Interchange Format
+  C.  Vào File, chọn Save As, chọn Powerpoint Picture Presentation
+  D.  Chọn File, chọn JPEG
+
+Câu 35: Trong MS PowerPoint, câu nào sau đây là sai?
+  A.  Có thể chia bài thuyết trình thành nhiều section
+  B.  Vùng Content có thể chứa một bảng (table)
+  C.  Khi trình chiếu, phần notes của từng slide không hiện ra trên màn hình trình chiếu
+  D.  Không có cách nào để trình chiếu các slide đã bị ẩn (Hide)
+
+Câu 36: Trong MS PowerPoint, khẳng định nào sau đây là sai về vùng ghi chú (Note Page) của PowerPoint?
+  A.  Không được hiển thị khi thuyết trình ở chế độ bình thường
+  B.  Có thể chèn các đối tượng hình ảnh vào vùng ghi chú
+  C.  Có thể in vùng ghi chú khi in bài thuyết trình
+  D.  Người thuyết trình không thể xem nội dung trong vùng ghi chú khi bắt đầu thuyết trình
+
+Câu 37: Trong MS PowerPoint, chế độ nào sau đây không được dùng để trình chiếu Slide?
+  A.  Custom Slide Show
+  B.  Set Up Slide show
+  C.  From Beginning
+  D.  From Curent Slide
+
+Câu 38: Trong MS PowerPoint, phát biểu nào sau đây là sai?
+  A.  Kích thước các Slide là cố định và không thể thay đổi
+  B.  Trong PowerPoint cũng có chức năng Column nhưng không đa năng bằng Word
+  C.  Có thể lưu file PowerPoint dưới dạng phim ảnh
+  D.  Có thể bỏ qua slide khi thuyết trình bằng cách ẩn slide mà không cần phải xóa slide đó
+
+Câu 39: Chế độ xem nào không có trong MS Powerpoint?
+  A.  Draft
+  B.  Normal
+  C.  Reading View
+  D.  Slide sorter
+
+Câu 40: Đâu không phải là cách để trình diễn một bài thuyết trình trong PowerPoint?
+  A.  Bấm vào nút Slide show ( ) ở góc dưới bên phải
+  B.  Thẻ Slide show – chọn From Beginning
+  C.  Thẻ Slide show – chọn From Custom Slide show
+  D.  Thẻ Slide show – chọn Set Up Slide sho
+
+Câu 41: Mục đích chính của chế độ xem Slide Sorter trong PowerPoint là gì?
+  A.  Thiết kế các nội dung trong Slide một cách dễ dàng
+  B.  Sắp xếp thứ tự các Slide một cách dễ dàng
+  C.  Xem bài thuyết trình dưới góc nhìn người nói
+  D.  Xem bài thuyết trình dưới góc nhìn khán giả
+
+Câu 42: Để trình chiếu từ slide 2 đến slide 4 trong một bài thuyết trình trong PowerPoint, cách nào dưới đây là sai?
+  A.  Ẩn các slide khác trừ slide 2, 3, 4
+  B.  Sử dụng chức năng Custom show và chọn slide 2, 3, 4
+  C.  Sử dụng chức năng Set Up Slide Show, chọn From 2 to 4 tại mục show slide trong cửa sổ hiện ra
+  D.  Đặt màu nền của các slide 2, 3, 4 khác so với các slide còn lại
+
+Câu 43: Chức năng nào trong nhóm công cụ sau dùng để trình chiếu slide đang thiết kế trong Powerpoint
+  A.  1 - Normal ()
+  B.  2 - Slode sorter ()
+  C.  3 - Reading view ()
+  D.  4 - Slide show ()
+
+Câu 44: Cho biết cách chuyển nhanh đến 1 slide trong lúc đang trình chiếu trong PowerPoint.
+  A.  Chuột phải vào màn hình trình chiếu -> go to Slide -> Nhập số Slide cần chuyển đến
+  B.  Chuột phải vào màn hình trình chiếu -> See all Slides -> Chọn Slide cần chuyển đến
+  C.  Nhập số trang của Slide và bấm Enter
+  D.  Nhập số trang của Slide và chọn Move to Slide
+
+Câu 45: Chức năng nào để xem và chỉnh sửa thiết kế của Slide trong PowerPoint?
+  A.  Slide Master
+  B.  Handout master
+  C.  Notes master
+  D.  Slide sorter
+
+Câu 46: Trong PowerPoint, chế độ trình chiếu Browsed by an individual (window) trong chức năng Set Up Slide Show tương đương với góc nhìn nào dưới đây?
+  A.  Normal
+  B.  Slide Sorter
+  C.  Reading View
+  D.  Slide maste
+
+Câu 47: Trong Power Point, chức năng nào được sử dụng để luyện tập việc điều chỉnh thời gian cho từng Slide?
+  A.  Slider Timings
+  B.  Slide Show Setup
+  C.  Rehearse Timing
+  D.  Slider Timer
+
+Câu 48: Trong PowerPoint, muốn chèn phim vào bài trình chiếu, bạn sử dụng lựa chọn nào?
+  A.  Tools - Video
+  B.  Home - Video
+  C.  Insert - Video
+  D.  Design - Video
+
+Câu 49: Lựa chọn nào sau đây được sử dụng để điều chỉnh thời gian cho từng slide trong bài thuyết trình?
+  A.  Slider Timings
+  B.  Slider Timer
+  C.  Rehearse Timing
+  D.  Slide Show Setup
+
+Câu 50: Trong PowerPoint, để tạo phiên trình chiếu một số Slide theo yêu cầu,trong thẻ Slide Show, bạn sử dụng lựa chọn nào?
+  A.  Broadcast Slide Show
+  B.  Custom Slide Show
+  C.  Set Up Slide Show
+  D.  Broadcast Set up Slide Show
+
